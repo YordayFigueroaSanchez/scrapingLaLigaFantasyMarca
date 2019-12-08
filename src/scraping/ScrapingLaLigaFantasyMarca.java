@@ -8,22 +8,13 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerConfigurationException;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-
 import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import org.w3c.dom.Attr;
 
 public class ScrapingLaLigaFantasyMarca {
 
@@ -34,7 +25,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		String url = "https://coinmarketcap.com/";
 
-		String file = "ejemploMLB.html";
+		String file = "jornada01.html";
 
 		File input = new File("data/" + file);
 		Document doc = null;
@@ -47,7 +38,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		// elemento raiz
 //		Document doc = docBuilder.newDocument();
-		Element gameElement = doc.createElement("game");
+		Element gameElement = doc.createElement("jornada");
 		doc.appendChild(gameElement);
 
 //		if (getStatusConnectionCode(url) == 200) {
@@ -57,15 +48,45 @@ public class ScrapingLaLigaFantasyMarca {
 			Document documento = getHtmlFileToDocument(file);
 
 //			Analizando el score del juego
-			Elements elementosScore = documento.select("table.mlb-scores > tbody");
-			System.out.println(elementosScore.size());
+//			Elements elementosScore = documento.select("table.mlb-scores > tbody");
+			Elements matchesContainer = documento.select("div.matches-container__match");
+			System.out.println(matchesContainer.size());
+			
+			for (Element element : matchesContainer) {
+				
+				Elements matchTeamLocal = element.select("div.match-block.text-center > div.match-block__local > span.match-block__team-name");
+				System.out.println(matchTeamLocal.get(0).text());
+				
+				Elements matchResult = element.select("div.match-block.text-center > div > span.match-block__goals");
+				System.out.println(matchResult.get(0).text());
+				
+				Elements matchTeamVisitor = element.select("div.match-block.text-center > div.match-block__visitor > span.match-block__team-name");
+				System.out.println(matchTeamVisitor.get(0).text());
+				
+				Elements matchPlayers = element.select(		"div.match-stats >"
+														+ 	"div.match-stats__local >"
+														+	"div"	
+														//+	"div"	
+														//+ 	"span.match-stats__nickname"
+														);
+				for (Element element2 : matchPlayers) {
+					//System.out.println(element2);
+					//Elements playerAux = element2.select("div > span.match-stats__points");
+					Elements playerAux = element2.select("div > span");
+					for (Element element3 : playerAux) {
+						System.out.println(element3.text());
+					}
+					
+				}
+			}
+			
 //			rootElement.appendChild(extractPitchHtmlToXml( elementosPitchHc, doc));
 
 //			Analizando el grupo de bateadores de ambos teams
-			Elements elementosOffensive = documento.select("table.mlb-box-bat > tbody");
-			System.out.println(elementosOffensive.size());
-			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(0).select("tr"), doc));
-			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(1).select("tr"), doc));
+//			Elements elementosOffensive = documento.select("table.mlb-box-bat > tbody");
+//			System.out.println(elementosOffensive.size());
+//			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(0).select("tr"), doc));
+//			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(1).select("tr"), doc));
 
 //			Analizando el grupo de bateadores del team HC
 //			Elements elementosOffensiveHc = documento
@@ -74,10 +95,10 @@ public class ScrapingLaLigaFantasyMarca {
 //			rootElement.appendChild(extractOffensiveHtmlToXml( elementosOffensiveHc, doc));
 
 //			Analizando el grupo de lanzadores de ambos team
-			Elements elementosPitch = documento.select("table.mlb-pitch > tbody");
-			System.out.println(elementosPitch.size());
-			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(0).select("tr"), doc));
-			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(1).select("tr"), doc));
+//			Elements elementosPitch = documento.select("table.mlb-pitch > tbody");
+//			System.out.println(elementosPitch.size());
+//			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(0).select("tr"), doc));
+//			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(1).select("tr"), doc));
 
 		}
 
