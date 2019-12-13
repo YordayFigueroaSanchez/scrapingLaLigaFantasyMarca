@@ -28,7 +28,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		String url = "https://coinmarketcap.com/";
 
-		String file = "jornada01.html";
+		String file = "jornada02.html";
 		int contador = 0;
 
 		File input = new File("data/" + file);
