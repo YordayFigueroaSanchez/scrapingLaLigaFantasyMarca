@@ -2,8 +2,11 @@ package scraping;
 
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.nio.charset.StandardCharsets;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -70,7 +73,9 @@ public class ScrapingLaLigaFantasyMarca {
 
 		BufferedWriter writer = null;
 		try {
-			writer = new BufferedWriter(new FileWriter(ruta + nombreFichero + ".xml"));
+			//writer = new BufferedWriter(new FileWriter(ruta + nombreFichero + ".xml"));
+			 writer = new BufferedWriter
+				    (new OutputStreamWriter(new FileOutputStream(ruta + nombreFichero + ".xml"), StandardCharsets.UTF_8));
 			System.out.println(jornadaElement.outerHtml());
 			writer.write(jornadaElement.outerHtml());
 
