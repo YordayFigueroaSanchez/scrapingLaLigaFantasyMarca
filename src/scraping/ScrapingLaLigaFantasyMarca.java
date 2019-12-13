@@ -39,9 +39,11 @@ public class ScrapingLaLigaFantasyMarca {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-//tomar numero de la jornada
+		
+		//tomar numero de la jornada
 		String posJornada = file.substring(7, 9);
-		System.out.println(posJornada + "jornada----*******----jornada");
+		//System.out.println(posJornada + "jornada----*******----jornada");
+		
 		// elemento raiz
 //		Document doc = docBuilder.newDocument();
 		Element jornadaElement = doc.createElement("jornada");
@@ -199,25 +201,42 @@ public class ScrapingLaLigaFantasyMarca {
 		Elements matchTeamLocal = element
 				.select("div.match-block.text-center > div.match-block__local > span.match-block__team-name");
 		System.out.println(matchTeamLocal.get(0).text());
-		gameElement.attr("aa", matchTeamLocal.get(0).text());
+		gameElement.attr("name_local", matchTeamLocal.get(0).text());
 		Element teamElementLocal = doc.createElement("team");
 		gameElement.appendChild(teamElementLocal);
 		teamElementLocal.attr("name", matchTeamLocal.get(0).text());
 
 		Elements matchResult = element.select("div.match-block.text-center > div > span.match-block__goals");
 		System.out.println(matchResult.get(0).text());
-		gameElement.attr("bb", matchResult.get(0).text());
-
+		String marcador = matchResult.get(0).text();
+		String [] marcadorSplit = marcador.split("-");
+		gameElement.attr("goal_local", marcadorSplit[0].trim());
+		gameElement.attr("goal_visitor", marcadorSplit[1].trim());
+		int teamLocalGoal = Integer.valueOf(marcadorSplit[0].trim());
+		int teamVisitorGoal = Integer.valueOf(marcadorSplit[1].trim());
+		int teamLocalPoints, teamVisitorPoints;
+		if (teamLocalGoal > teamVisitorGoal) {
+			teamLocalPoints = 3;
+			teamVisitorPoints = 0;
+		} else if (teamLocalGoal < teamVisitorGoal) {
+			teamLocalPoints = 0;
+			teamVisitorPoints = 3;
+		} else {
+			teamLocalPoints = 1;
+			teamVisitorPoints = 1;
+		}
+		
+		
 		Elements matchTeamVisitor = element
 				.select("div.match-block.text-center > div.match-block__visitor > span.match-block__team-name");
 		System.out.println(matchTeamVisitor.get(0).text());
-		gameElement.attr("cc", matchTeamVisitor.get(0).text());
+		gameElement.attr("name_visitor", matchTeamVisitor.get(0).text());
 		Element teamElementVisitor = doc.createElement("team");
 		gameElement.appendChild(teamElementVisitor);
 		teamElementVisitor.attr("name", matchTeamVisitor.get(0).text());
 
-		Elements matchPlayers = element.select("div.match-stats >" + "div.match-stats__local >" + "div");
-		for (Element element2 : matchPlayers) {
+		Elements matchPlayersLocal = element.select("div.match-stats >" + "div.match-stats__local >" + "div");
+		for (Element element2 : matchPlayersLocal) {
 			teamElementLocal.appendChild(extractPlayerLocal(element2, doc, DataOrder.EmptyNamePoints));
 		}
 		
@@ -225,6 +244,9 @@ public class ScrapingLaLigaFantasyMarca {
 		for (Element element2 : matchPlayersVisiator) {
 			teamElementVisitor.appendChild(extractPlayerLocal(element2, doc, DataOrder.PointsNameEmpty));
 		}
+		
+		teamElementLocal.attr("point", String.valueOf(teamLocalPoints));
+		teamElementVisitor.attr("point", String.valueOf(teamVisitorPoints));
 
 		return gameElement;
 	}

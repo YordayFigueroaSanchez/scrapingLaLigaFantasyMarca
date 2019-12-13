@@ -1,0 +1,400 @@
+<jornada nro="01">
+ <game name_local="Athletic Club" goal_local="1" goal_visitor="0" name_visitor="FC Barcelona">
+  <team name="Athletic Club" point="3">
+   <player name="Unai Simón" pos="Por" puntos="10"></player>
+   <player name="Herrerín" pos="Por" puntos="0"></player>
+   <player name="Capa" pos="Def" puntos="11"></player>
+   <player name="Yuri" pos="Def" puntos="9"></player>
+   <player name="De Marcos" pos="Def" puntos="6"></player>
+   <player name="Balenziaga" pos="Def" puntos="0"></player>
+   <player name="Unai Núñez" pos="Def" puntos="8"></player>
+   <player name="Yeray" pos="Def" puntos="8"></player>
+   <player name="Unai López" pos="Cen" puntos="6"></player>
+   <player name="Muniain" pos="Cen" puntos="6"></player>
+   <player name="Beñat" pos="Cen" puntos="2"></player>
+   <player name="Dani García" pos="Cen" puntos="8"></player>
+   <player name="Raúl García" pos="Cen" puntos="6"></player>
+   <player name="Aduriz" pos="Del" puntos="8"></player>
+   <player name="Williams" pos="Del" puntos="6"></player>
+  </team>
+  <team name="FC Barcelona" point="0">
+   <player puntos="8" name="Ter Stegen" pos="Por"></player>
+   <player puntos="3" name="Jordi Alba" pos="Def"></player>
+   <player puntos="3" name="Lenglet" pos="Def"></player>
+   <player puntos="4" name="N. Semedo" pos="Def"></player>
+   <player puntos="0" name="Umtiti" pos="Def"></player>
+   <player puntos="4" name="Piqué" pos="Def"></player>
+   <player puntos="0" name="Júnior" pos="Def"></player>
+   <player puntos="7" name="Sergi Roberto" pos="Def"></player>
+   <player puntos="6" name="De Jong" pos="Cen"></player>
+   <player puntos="2" name="Aleñá" pos="Cen"></player>
+   <player puntos="0" name="Busquets" pos="Cen"></player>
+   <player puntos="3" name="Rakitić" pos="Cen"></player>
+   <player puntos="2" name="Luis Suárez" pos="Del"></player>
+   <player puntos="2" name="Griezmann" pos="Del"></player>
+   <player puntos="2" name="Dembélé" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="RC Celta" goal_local="1" goal_visitor="3" name_visitor="Real Madrid">
+  <team name="RC Celta" point="0">
+   <player name="Iván Villar" pos="Por" puntos="0"></player>
+   <player name="Rubén Blanco" pos="Por" puntos="6"></player>
+   <player name="Kevin Vázquez" pos="Def" puntos="0"></player>
+   <player name="Jorge Sáenz" pos="Def" puntos="0"></player>
+   <player name="David Costas" pos="Def" puntos="1"></player>
+   <player name="Aidoo" pos="Def" puntos="0"></player>
+   <player name="Olaza" pos="Def" puntos="2"></player>
+   <player name="Néstor Araújo" pos="Def" puntos="1"></player>
+   <player name="Denis Suárez" pos="Cen" puntos="5"></player>
+   <player name="Lobotka" pos="Cen" puntos="2"></player>
+   <player name="Rafinha" pos="Cen" puntos="6"></player>
+   <player name="Brais Méndez" pos="Cen" puntos="1"></player>
+   <player name="Sisto" pos="Cen" puntos="1"></player>
+   <player name="Fran Beltrán" pos="Cen" puntos="3"></player>
+   <player name="Pape Cheikh" pos="Cen" puntos="4"></player>
+   <player name="Gabriel Fernández" pos="Del" puntos="0"></player>
+   <player name="Aspas" pos="Del" puntos="3"></player>
+  </team>
+  <team name="Real Madrid" point="3">
+   <player puntos="4" name="Courtois" pos="Por"></player>
+   <player puntos="0" name="Keylor Navas" pos="Por"></player>
+   <player puntos="0" name="Militão" pos="Def"></player>
+   <player puntos="2" name="Odriozola" pos="Def"></player>
+   <player puntos="5" name="Sergio Ramos" pos="Def"></player>
+   <player puntos="0" name="Nacho" pos="Def"></player>
+   <player puntos="4" name="Varane" pos="Def"></player>
+   <player puntos="4" name="Marcelo" pos="Def"></player>
+   <player puntos="0" name="Modrić" pos="Cen"></player>
+   <player puntos="7" name="Lucas Vázquez" pos="Cen"></player>
+   <player puntos="11" name="Kroos" pos="Cen"></player>
+   <player puntos="0" name="James Rodríguez" pos="Cen"></player>
+   <player puntos="8" name="Casemiro" pos="Cen"></player>
+   <player puntos="2" name="Isco" pos="Cen"></player>
+   <player puntos="3" name="Vinícius Jr." pos="Del"></player>
+   <player puntos="10" name="Bale" pos="Del"></player>
+   <player puntos="1" name="Jović" pos="Del"></player>
+   <player puntos="15" name="Benzema" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="Valencia CF" goal_local="1" goal_visitor="1" name_visitor="Real Sociedad">
+  <team name="Valencia CF" point="1">
+   <player name="Jaume Domenech" pos="Por" puntos="0"></player>
+   <player name="Cillessen" pos="Por" puntos="4"></player>
+   <player name="Piccini" pos="Def" puntos="2"></player>
+   <player name="Gabriel Paulista" pos="Def" puntos="7"></player>
+   <player name="Jaume Costa" pos="Def" puntos="7"></player>
+   <player name="Garay" pos="Def" puntos="4"></player>
+   <player name="Diakhaby" pos="Def" puntos="0"></player>
+   <player name="Kondogbia" pos="Cen" puntos="4"></player>
+   <player name="Cheryshev" pos="Cen" puntos="3"></player>
+   <player name="Coquelin" pos="Cen" puntos="6"></player>
+   <player name="Soler" pos="Cen" puntos="5"></player>
+   <player name="Guedes" pos="Cen" puntos="8"></player>
+   <player name="Wass" pos="Cen" puntos="8"></player>
+   <player name="Manu Vallejo" pos="Del" puntos="0"></player>
+   <player name="Maxi Gómez" pos="Del" puntos="0"></player>
+   <player name="Ferrán Torres" pos="Del" puntos="1"></player>
+   <player name="Gameiro" pos="Del" puntos="5"></player>
+   <player name="Rodrigo" pos="Del" puntos="4"></player>
+  </team>
+  <team name="Real Sociedad" point="1">
+   <player puntos="7" name="Moyá" pos="Por"></player>
+   <player puntos="0" name="Remiro" pos="Por"></player>
+   <player puntos="2" name="Aihen Muñoz" pos="Def"></player>
+   <player puntos="3" name="Zaldua" pos="Def"></player>
+   <player puntos="2" name="Le Normand" pos="Def"></player>
+   <player puntos="3" name="Mikel Merino" pos="Cen"></player>
+   <player puntos="2" name="Barrenetxea" pos="Cen"></player>
+   <player puntos="3" name="Januzaj" pos="Cen"></player>
+   <player puntos="0" name="Zurutuza" pos="Cen"></player>
+   <player puntos="6" name="Illarramendi" pos="Cen"></player>
+   <player puntos="0" name="Ander Guevara" pos="Cen"></player>
+   <player puntos="10" name="Oyarzabal" pos="Cen"></player>
+   <player puntos="7" name="Zubeldia" pos="Cen"></player>
+   <player puntos="4" name="Ødegaard" pos="Cen"></player>
+   <player puntos="2" name="Isak" pos="Del"></player>
+   <player puntos="3" name="Willian José" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="RCD Mallorca" goal_local="2" goal_visitor="1" name_visitor="SD Eibar">
+  <team name="RCD Mallorca" point="3">
+   <player name="Parera" pos="Por" puntos="0"></player>
+   <player name="Manuel Reina" pos="Por" puntos="6"></player>
+   <player name="Xisco Campos" pos="Def" puntos="1"></player>
+   <player name="Lumor" pos="Def" puntos="5"></player>
+   <player name="Sedlar" pos="Def" puntos="0"></player>
+   <player name="Valjent" pos="Def" puntos="6"></player>
+   <player name="Raíllo" pos="Def" puntos="5"></player>
+   <player name="Gámez" pos="Def" puntos="0"></player>
+   <player name="Sastre" pos="Def" puntos="5"></player>
+   <player name="Salva Sevilla" pos="Cen" puntos="3"></player>
+   <player name="Febas" pos="Cen" puntos="4"></player>
+   <player name="Baba" pos="Cen" puntos="3"></player>
+   <player name="Dani Rodríguez" pos="Cen" puntos="11"></player>
+   <player name="Lago Júnior" pos="Del" puntos="5"></player>
+   <player name="Trajkovski" pos="Del" puntos="2"></player>
+   <player name="Ante Budimir" pos="Del" puntos="3"></player>
+   <player name="Pablo Chavarría" pos="Del" puntos="0"></player>
+   <player name="Álex Alegría" pos="Del" puntos="2"></player>
+  </team>
+  <team name="SD Eibar" point="0">
+   <player puntos="1" name="Dmitrović" pos="Por"></player>
+   <player puntos="0" name="Bigas" pos="Def"></player>
+   <player puntos="2" name="Rober Correa" pos="Def"></player>
+   <player puntos="0" name="Arbilla" pos="Def"></player>
+   <player puntos="0" name="Tejero" pos="Def"></player>
+   <player puntos="2" name="Ramis" pos="Def"></player>
+   <player puntos="5" name="Paulo Oliveira" pos="Def"></player>
+   <player puntos="1" name="Pablo de Blasis" pos="Cen"></player>
+   <player puntos="3" name="Edu Expósito" pos="Cen"></player>
+   <player puntos="6" name="Pedro León" pos="Cen"></player>
+   <player puntos="0" name="Inui" pos="Cen"></player>
+   <player puntos="1" name="Sergio Álvarez" pos="Cen"></player>
+   <player puntos="2" name="Orellana" pos="Cen"></player>
+   <player puntos="1" name="Escalante" pos="Cen"></player>
+   <player puntos="1" name="Kike García" pos="Del"></player>
+   <player puntos="1" name="Quique Gonzalez" pos="Del"></player>
+   <player puntos="2" name="Sergi Enrich" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="CD Leganés" goal_local="0" goal_visitor="1" name_visitor="C.A. Osasuna">
+  <team name="CD Leganés" point="0">
+   <player name="Soriano" pos="Por" puntos="0"></player>
+   <player name="Cuéllar" pos="Por" puntos="4"></player>
+   <player name="Siovas" pos="Def" puntos="1"></player>
+   <player name="Rosales" pos="Def" puntos="5"></player>
+   <player name="Kévin Rodrigues" pos="Def" puntos="2"></player>
+   <player name="Jonathan Silva" pos="Def" puntos="2"></player>
+   <player name="Marc Navarro" pos="Def" puntos="2"></player>
+   <player name="Bustinza" pos="Def" puntos="1"></player>
+   <player name="Omeruo" pos="Def" puntos="0"></player>
+   <player name="Tarín" pos="Def" puntos="4"></player>
+   <player name="Rubén Pérez" pos="Cen" puntos="3"></player>
+   <player name="Óscar Rodríguez" pos="Cen" puntos="-1"></player>
+   <player name="Recio" pos="Cen" puntos="1"></player>
+   <player name="Eraso" pos="Cen" puntos="5"></player>
+   <player name="Braithwaite" pos="Del" puntos="5"></player>
+   <player name="En-Nesyri" pos="Del" puntos="5"></player>
+   <player name="Sabin Merino" pos="Del" puntos="0"></player>
+   <player name="Aitor Ruibal" pos="Del" puntos="0"></player>
+   <player name="Arnáiz" pos="Del" puntos="2"></player>
+  </team>
+  <team name="C.A. Osasuna" point="3">
+   <player puntos="0" name="S. Herrera" pos="Por"></player>
+   <player puntos="10" name="Rubén" pos="Por"></player>
+   <player puntos="8" name="Nacho Vidal" pos="Def"></player>
+   <player puntos="9" name="Aridane" pos="Def"></player>
+   <player puntos="7" name="Estupiñán" pos="Def"></player>
+   <player puntos="8" name="David García" pos="Def"></player>
+   <player puntos="5" name="Brasanac" pos="Cen"></player>
+   <player puntos="3" name="Roberto Torres" pos="Cen"></player>
+   <player puntos="1" name="Luis Perea" pos="Cen"></player>
+   <player puntos="4" name="Jon Moncayola" pos="Cen"></player>
+   <player puntos="0" name="Fran Mérida" pos="Cen"></player>
+   <player puntos="8" name="Chimy Ávila" pos="Del"></player>
+   <player puntos="0" name="Juan Villar" pos="Del"></player>
+   <player puntos="0" name="Brandon" pos="Del"></player>
+   <player puntos="2" name="Marc Cardona" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="Villarreal CF" goal_local="4" goal_visitor="4" name_visitor="Granada CF">
+  <team name="Villarreal CF" point="1">
+   <player name="Andrés Fdez." pos="Por" puntos="3"></player>
+   <player name="Asenjo" pos="Por" puntos="0"></player>
+   <player name="Albiol" pos="Def" puntos="-1"></player>
+   <player name="Mario" pos="Def" puntos="0"></player>
+   <player name="Funes Mori" pos="Def" puntos="0"></player>
+   <player name="Rubén Peña" pos="Def" puntos="-3"></player>
+   <player name="Samu Chukwueze" pos="Cen" puntos="9"></player>
+   <player name="Morlanes" pos="Cen" puntos="0"></player>
+   <player name="Anguissa" pos="Cen" puntos="3"></player>
+   <player name="Iborra" pos="Cen" puntos="1"></player>
+   <player name="Moi Gómez" pos="Cen" puntos="14"></player>
+   <player name="Trigueros" pos="Cen" puntos="1"></player>
+   <player name="Cazorla" pos="Cen" puntos="10"></player>
+   <player name="Toko Ekambi" pos="Del" puntos="1"></player>
+   <player name="Bacca" pos="Del" puntos="1"></player>
+   <player name="Gerard" pos="Del" puntos="5"></player>
+  </team>
+  <team name="Granada CF" point="1">
+   <player puntos="0" name="Aarón Escandell" pos="Por"></player>
+   <player puntos="0" name="Rui Silva" pos="Por"></player>
+   <player puntos="1" name="Domingos Duarte" pos="Def"></player>
+   <player puntos="0" name="Victor Díaz" pos="Def"></player>
+   <player puntos="-2" name="Germán" pos="Def"></player>
+   <player puntos="-1" name="Quini" pos="Def"></player>
+   <player puntos="0" name="Carlos Neva" pos="Def"></player>
+   <player puntos="0" name="Yangel Herrera" pos="Cen"></player>
+   <player puntos="8" name="Montoro" pos="Cen"></player>
+   <player puntos="4" name="Eteki" pos="Cen"></player>
+   <player puntos="8" name="Fede Vico" pos="Cen"></player>
+   <player puntos="2" name="Darwin Machis" pos="Del"></player>
+   <player puntos="11" name="Soldado" pos="Del"></player>
+   <player puntos="6" name="Antonio Puertas" pos="Del"></player>
+   <player puntos="0" name="Carlos Fernández" pos="Del"></player>
+   <player puntos="1" name="Vadillo" pos="Del"></player>
+   <player puntos="2" name="Adrián Ramos" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="D. Alavés" goal_local="1" goal_visitor="0" name_visitor="Levante UD">
+  <team name="D. Alavés" point="3">
+   <player name="Pacheco" pos="Por" puntos="12"></player>
+   <player name="Sivera" pos="Por" puntos="0"></player>
+   <player name="Rubén Duarte" pos="Def" puntos="7"></player>
+   <player name="Maripán" pos="Def" puntos="11"></player>
+   <player name="Martín" pos="Def" puntos="7"></player>
+   <player name="Rodrigo Ely" pos="Def" puntos="9"></player>
+   <player name="Aleix Vidal" pos="Def" puntos="12"></player>
+   <player name="Adrián Marín" pos="Def" puntos="0"></player>
+   <player name="Wakaso" pos="Cen" puntos="8"></player>
+   <player name="Tomás Pina" pos="Cen" puntos="6"></player>
+   <player name="Pere Pons" pos="Cen" puntos="1"></player>
+   <player name="Manu García" pos="Cen" puntos="4"></player>
+   <player name="Guidetti" pos="Del" puntos="0"></player>
+   <player name="Joselu" pos="Del" puntos="9"></player>
+   <player name="Luis Rioja" pos="Del" puntos="5"></player>
+   <player name="Lucas Pérez" pos="Del" puntos="1"></player>
+  </team>
+  <team name="Levante UD" point="0">
+   <player puntos="0" name="Oier" pos="Por"></player>
+   <player puntos="4" name="Aitor Fdez." pos="Por"></player>
+   <player puntos="0" name="Cabaco" pos="Def"></player>
+   <player puntos="5" name="Postigo" pos="Def"></player>
+   <player puntos="3" name="Vezo" pos="Def"></player>
+   <player puntos="4" name="Toño" pos="Def"></player>
+   <player puntos="4" name="Miramón" pos="Def"></player>
+   <player puntos="0" name="Coke" pos="Def"></player>
+   <player puntos="3" name="Melero" pos="Cen"></player>
+   <player puntos="3" name="Bardhi" pos="Cen"></player>
+   <player puntos="2" name="Rochina" pos="Cen"></player>
+   <player puntos="3" name="Vukčević" pos="Cen"></player>
+   <player puntos="3" name="Campaña" pos="Cen"></player>
+   <player puntos="2" name="Morales" pos="Cen"></player>
+   <player puntos="0" name="Hernâni" pos="Del"></player>
+   <player puntos="2" name="Roger" pos="Del"></player>
+   <player puntos="3" name="Borja Mayoral" pos="Del"></player>
+   <player puntos="3" name="Sergio León" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="RCD Espanyol" goal_local="0" goal_visitor="2" name_visitor="Sevilla FC">
+  <team name="RCD Espanyol" point="0">
+   <player name="Andrés Prieto" pos="Por" puntos="0"></player>
+   <player name="Diego López" pos="Por" puntos="3"></player>
+   <player name="Dídac" pos="Def" puntos="1"></player>
+   <player name="Calero" pos="Def" puntos="1"></player>
+   <player name="Javi López" pos="Def" puntos="1"></player>
+   <player name="Lluís López" pos="Def" puntos="1"></player>
+   <player name="Naldo" pos="Def" puntos="0"></player>
+   <player name="Granero" pos="Cen" puntos="0"></player>
+   <player name="Iturraspe" pos="Cen" puntos="0"></player>
+   <player name="Melendo" pos="Cen" puntos="1"></player>
+   <player name="Víctor Sánchez" pos="Cen" puntos="1"></player>
+   <player name="Darder" pos="Cen" puntos="2"></player>
+   <player name="Marc Roca" pos="Cen" puntos="4"></player>
+   <player name="Ferreyra" pos="Del" puntos="3"></player>
+   <player name="Matias Vargas" pos="Del" puntos="1"></player>
+   <player name="Wu Lei" pos="Del" puntos="2"></player>
+   <player name="Puado" pos="Del" puntos="0"></player>
+  </team>
+  <team name="Sevilla FC" point="3">
+   <player puntos="9" name="Vaclík" pos="Por"></player>
+   <player puntos="8" name="Diego Carlos" pos="Def"></player>
+   <player puntos="11" name="Carriço" pos="Def"></player>
+   <player puntos="9" name="Jesús Navas" pos="Def"></player>
+   <player puntos="0" name="Escudero" pos="Def"></player>
+   <player puntos="2" name="Koundé" pos="Def"></player>
+   <player puntos="20" name="Reguilón" pos="Def"></player>
+   <player puntos="0" name="Bryan Gil" pos="Cen"></player>
+   <player puntos="7" name="Fernando" pos="Cen"></player>
+   <player puntos="6" name="Joan Jordán" pos="Cen"></player>
+   <player puntos="2" name="Gudelj" pos="Cen"></player>
+   <player puntos="6" name="Óliver Torres" pos="Cen"></player>
+   <player puntos="0" name="F. Vázquez" pos="Cen"></player>
+   <player puntos="2" name="Munir" pos="Del"></player>
+   <player puntos="4" name="Ocampos" pos="Del"></player>
+   <player puntos="4" name="Luuk de Jong" pos="Del"></player>
+   <player puntos="9" name="Nolito" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="Real Betis" goal_local="1" goal_visitor="2" name_visitor="R. Valladolid CF">
+  <team name="Real Betis" point="0">
+   <player name="Dani Martín" pos="Por" puntos="2"></player>
+   <player name="Joel Robles" pos="Por" puntos="-2"></player>
+   <player name="Emerson" pos="Def" puntos="5"></player>
+   <player name="Sidnei" pos="Def" puntos="2"></player>
+   <player name="Bartra" pos="Def" puntos="3"></player>
+   <player name="Pedraza" pos="Def" puntos="-1"></player>
+   <player name="Feddal" pos="Def" puntos="0"></player>
+   <player name="Barragán" pos="Def" puntos="0"></player>
+   <player name="Tello" pos="Cen" puntos="5"></player>
+   <player name="Diego Lainez" pos="Cen" puntos="0"></player>
+   <player name="Javi García" pos="Cen" puntos="1"></player>
+   <player name="Kaptoum" pos="Cen" puntos="0"></player>
+   <player name="William Carvalho" pos="Cen" puntos="5"></player>
+   <player name="Joaquín" pos="Cen" puntos="1"></player>
+   <player name="Fekir" pos="Del" puntos="5"></player>
+   <player name="Juanmi" pos="Del" puntos="1"></player>
+   <player name="Borja Iglesias" pos="Del" puntos="2"></player>
+   <player name="Loren" pos="Del" puntos="6"></player>
+  </team>
+  <team name="R. Valladolid CF" point="3">
+   <player puntos="5" name="Masip" pos="Por"></player>
+   <player puntos="0" name="Lunin" pos="Por"></player>
+   <player puntos="3" name="Nacho" pos="Def"></player>
+   <player puntos="3" name="Moyano" pos="Def"></player>
+   <player puntos="0" name="Joaquín Fernández" pos="Def"></player>
+   <player puntos="0" name="Pedro Porro" pos="Def"></player>
+   <player puntos="4" name="Kiko Olivas" pos="Def"></player>
+   <player puntos="4" name="Alcaraz" pos="Cen"></player>
+   <player puntos="8" name="Óscar Plano" pos="Cen"></player>
+   <player puntos="1" name="Anuar" pos="Cen"></player>
+   <player puntos="7" name="Waldo" pos="Cen"></player>
+   <player puntos="0" name="Toni" pos="Cen"></player>
+   <player puntos="8" name="Sergi Guardiola" pos="Del"></player>
+   <player puntos="3" name="Enes Ünal" pos="Del"></player>
+   <player puntos="2" name="Sandro" pos="Del"></player>
+  </team>
+ </game>
+ <game name_local="Atlético de Madrid" goal_local="1" goal_visitor="0" name_visitor="Getafe CF">
+  <team name="Atlético de Madrid" point="3">
+   <player name="Adán" pos="Por" puntos="0"></player>
+   <player name="Oblak" pos="Por" puntos="8"></player>
+   <player name="Renan Lodi" pos="Def" puntos="-1"></player>
+   <player name="Trippier" pos="Def" puntos="10"></player>
+   <player name="Arias" pos="Def" puntos="0"></player>
+   <player name="Savić" pos="Def" puntos="8"></player>
+   <player name="Hermoso" pos="Def" puntos="3"></player>
+   <player name="Giménez" pos="Def" puntos="7"></player>
+   <player name="Héctor Herrera" pos="Cen" puntos="0"></player>
+   <player name="Saúl" pos="Cen" puntos="6"></player>
+   <player name="Koke" pos="Cen" puntos="5"></player>
+   <player name="Lemar" pos="Cen" puntos="4"></player>
+   <player name="Thomas" pos="Cen" puntos="7"></player>
+   <player name="Marcos Llorente" pos="Cen" puntos="2"></player>
+   <player name="Vitolo" pos="Cen" puntos="3"></player>
+   <player name="Ivan Saponjic" pos="Del" puntos="0"></player>
+   <player name="João Félix" pos="Del" puntos="8"></player>
+   <player name="Morata" pos="Del" puntos="9"></player>
+  </team>
+  <team name="Getafe CF" point="0">
+   <player puntos="0" name="Chichizola" pos="Por"></player>
+   <player puntos="12" name="David Soria" pos="Por"></player>
+   <player puntos="4" name="Bruno" pos="Def"></player>
+   <player puntos="4" name="Raúl García" pos="Def"></player>
+   <player puntos="2" name="Nyom" pos="Def"></player>
+   <player puntos="0" name="Etxeita" pos="Def"></player>
+   <player puntos="3" name="Damián" pos="Def"></player>
+   <player puntos="1" name="Cabrera" pos="Def"></player>
+   <player puntos="4" name="Djené" pos="Def"></player>
+   <player puntos="4" name="Cucurella" pos="Cen"></player>
+   <player puntos="4" name="Arambarri" pos="Cen"></player>
+   <player puntos="0" name="Markel Bergara" pos="Cen"></player>
+   <player puntos="0" name="Portillo" pos="Cen"></player>
+   <player puntos="1" name="Fajr" pos="Cen"></player>
+   <player puntos="2" name="Mata" pos="Del"></player>
+   <player puntos="1" name="Ángel" pos="Del"></player>
+   <player puntos="-2" name="Jorge Molina" pos="Del"></player>
+   <player puntos="1" name="Enric Gallego" pos="Del"></player>
+  </team>
+ </game>
+</jornada>
