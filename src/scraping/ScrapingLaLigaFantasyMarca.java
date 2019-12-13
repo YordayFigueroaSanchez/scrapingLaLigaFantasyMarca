@@ -39,11 +39,14 @@ public class ScrapingLaLigaFantasyMarca {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-
+//tomar numero de la jornada
+		String posJornada = file.substring(7, 9);
+		System.out.println(posJornada + "jornada----*******----jornada");
 		// elemento raiz
 //		Document doc = docBuilder.newDocument();
 		Element jornadaElement = doc.createElement("jornada");
 		doc.appendChild(jornadaElement);
+		jornadaElement.attr("nro", posJornada);
 
 //		if (getStatusConnectionCode(url) == 200) {
 		if (getStatusFile(file) == 1) {
