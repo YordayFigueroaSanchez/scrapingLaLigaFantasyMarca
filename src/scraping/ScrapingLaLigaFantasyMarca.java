@@ -26,6 +26,7 @@ public class ScrapingLaLigaFantasyMarca {
 		String url = "https://coinmarketcap.com/";
 
 		String file = "jornada01.html";
+		int contador = 0;
 
 		File input = new File("data/" + file);
 		Document doc = null;
@@ -38,8 +39,8 @@ public class ScrapingLaLigaFantasyMarca {
 
 		// elemento raiz
 //		Document doc = docBuilder.newDocument();
-		Element gameElement = doc.createElement("jornada");
-		doc.appendChild(gameElement);
+		Element jornadaElement = doc.createElement("jornada");
+		doc.appendChild(jornadaElement);
 
 //		if (getStatusConnectionCode(url) == 200) {
 		if (getStatusFile(file) == 1) {
@@ -48,57 +49,13 @@ public class ScrapingLaLigaFantasyMarca {
 			Document documento = getHtmlFileToDocument(file);
 
 //			Analizando el score del juego
-//			Elements elementosScore = documento.select("table.mlb-scores > tbody");
 			Elements matchesContainer = documento.select("div.matches-container__match");
 			System.out.println(matchesContainer.size());
-			
+
 			for (Element element : matchesContainer) {
-				
-				Elements matchTeamLocal = element.select("div.match-block.text-center > div.match-block__local > span.match-block__team-name");
-				System.out.println(matchTeamLocal.get(0).text());
-				
-				Elements matchResult = element.select("div.match-block.text-center > div > span.match-block__goals");
-				System.out.println(matchResult.get(0).text());
-				
-				Elements matchTeamVisitor = element.select("div.match-block.text-center > div.match-block__visitor > span.match-block__team-name");
-				System.out.println(matchTeamVisitor.get(0).text());
-				
-				Elements matchPlayers = element.select(		"div.match-stats >"
-														+ 	"div.match-stats__local >"
-														+	"div"	
-														//+	"div"	
-														//+ 	"span.match-stats__nickname"
-														);
-				for (Element element2 : matchPlayers) {
-					//System.out.println(element2);
-					//Elements playerAux = element2.select("div > span.match-stats__points");
-					Elements playerAux = element2.select("div > span");
-					for (Element element3 : playerAux) {
-						System.out.println(element3.text());
-					}
-					
-				}
+				jornadaElement.appendChild(extractGame(element, doc));
+
 			}
-			
-//			rootElement.appendChild(extractPitchHtmlToXml( elementosPitchHc, doc));
-
-//			Analizando el grupo de bateadores de ambos teams
-//			Elements elementosOffensive = documento.select("table.mlb-box-bat > tbody");
-//			System.out.println(elementosOffensive.size());
-//			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(0).select("tr"), doc));
-//			gameElement.appendChild(extractOffensiveHtmlToXml(elementosOffensive.get(1).select("tr"), doc));
-
-//			Analizando el grupo de bateadores del team HC
-//			Elements elementosOffensiveHc = documento
-//					.select("table[id=MainContent_Estado_Juego_Tabs_ctl44_BoxScore_Bateo_HC_DXMainTable] > tbody > tr");
-//			System.out.println(elementosOffensiveHc.size());
-//			rootElement.appendChild(extractOffensiveHtmlToXml( elementosOffensiveHc, doc));
-
-//			Analizando el grupo de lanzadores de ambos team
-//			Elements elementosPitch = documento.select("table.mlb-pitch > tbody");
-//			System.out.println(elementosPitch.size());
-//			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(0).select("tr"), doc));
-//			gameElement.appendChild(extractPitchHtmlToXml(elementosPitch.get(1).select("tr"), doc));
 
 		}
 
@@ -114,8 +71,8 @@ public class ScrapingLaLigaFantasyMarca {
 		BufferedWriter writer = null;
 		try {
 			writer = new BufferedWriter(new FileWriter(ruta + nombreFichero + ".xml"));
-			System.out.println(gameElement.outerHtml());
-			writer.write(gameElement.outerHtml());
+			System.out.println(jornadaElement.outerHtml());
+			writer.write(jornadaElement.outerHtml());
 
 		} catch (IOException e) {
 			System.out.println("error");
@@ -190,6 +147,91 @@ public class ScrapingLaLigaFantasyMarca {
 		}
 		return doc;
 	}
+	private static Element extractPlayerLocal(Element element2, Document doc, DataOrder orden) {
+		int contador;
+		Elements playerAux = element2.select("div > span");
+		contador = 0;
+		Element playerElement = doc.createElement("player");
+
+		for (Element element3 : playerAux) {
+			System.out.println(element3.text());
+			contador++;
+			switch (contador) {
+			case 1:
+				if(orden == DataOrder.PointsNameEmpty) {
+					playerElement.attr("puntos", element3.text());
+				}
+				break;
+			case 2:
+				playerElement.attr("name", element3.text());
+				break;
+			case 3:
+				if(orden == DataOrder.EmptyNamePoints) {
+					playerElement.attr("puntos", element3.text());
+				}
+				
+				break;
+			}
+		}
+		
+		return playerElement;
+	}
+	private static Element extractGame(Element element, Document doc) {
+		int contador;
+		Element gameElement = doc.createElement("game");
+
+		Elements matchTeamLocal = element
+				.select("div.match-block.text-center > div.match-block__local > span.match-block__team-name");
+		System.out.println(matchTeamLocal.get(0).text());
+		gameElement.attr("aa", matchTeamLocal.get(0).text());
+		Element teamElementLocal = doc.createElement("team");
+		gameElement.appendChild(teamElementLocal);
+		teamElementLocal.attr("name", matchTeamLocal.get(0).text());
+
+		Elements matchResult = element.select("div.match-block.text-center > div > span.match-block__goals");
+		System.out.println(matchResult.get(0).text());
+		gameElement.attr("bb", matchResult.get(0).text());
+
+		Elements matchTeamVisitor = element
+				.select("div.match-block.text-center > div.match-block__visitor > span.match-block__team-name");
+		System.out.println(matchTeamVisitor.get(0).text());
+		gameElement.attr("cc", matchTeamVisitor.get(0).text());
+		Element teamElementVisitor = doc.createElement("team");
+		gameElement.appendChild(teamElementVisitor);
+		teamElementVisitor.attr("name", matchTeamVisitor.get(0).text());
+
+		Elements matchPlayers = element.select("div.match-stats >" + "div.match-stats__local >" + "div");
+		for (Element element2 : matchPlayers) {
+			teamElementLocal.appendChild(extractPlayerLocal(element2, doc, DataOrder.EmptyNamePoints));
+		}
+		
+		Elements matchPlayersVisiator = element.select("div.match-stats >" + "div.match-stats__visitor >" + "div");
+		for (Element element2 : matchPlayersVisiator) {
+			teamElementVisitor.appendChild(extractPlayerLocal(element2, doc, DataOrder.PointsNameEmpty));
+		}
+
+		return gameElement;
+	}
+
+	private static Element extractPlayer(Element element, Document doc) {
+		Element gameElement = doc.createElement("game");
+
+		Elements matchTeamLocal = element
+				.select("div.match-block.text-center > div.match-block__local > span.match-block__team-name");
+		System.out.println(matchTeamLocal.get(0).text());
+		gameElement.attr("aa", matchTeamLocal.get(0).text());
+
+		Elements matchResult = element.select("div.match-block.text-center > div > span.match-block__goals");
+		System.out.println(matchResult.get(0).text());
+		gameElement.attr("bb", matchResult.get(0).text());
+
+		Elements matchTeamVisitor = element
+				.select("div.match-block.text-center > div.match-block__visitor > span.match-block__team-name");
+		System.out.println(matchTeamVisitor.get(0).text());
+		gameElement.attr("cc", matchTeamVisitor.get(0).text());
+
+		return gameElement;
+	}
 
 	private static Element extractOffensiveHtmlToXml(Elements elementos, Document doc) {
 
@@ -219,7 +261,7 @@ public class ScrapingLaLigaFantasyMarca {
 					attrName = "name";
 					cadena = playerElement.text();
 					cadena = extractElementBefore(cadena);
-					//cadena = cadena2.trim();
+					// cadena = cadena2.trim();
 					Elements playerDataIds = elem.select("a");
 
 					if (!playerDataIds.isEmpty()) {
@@ -297,13 +339,13 @@ public class ScrapingLaLigaFantasyMarca {
 		String[] cadenaSplit = cadena.split("player/");
 		return cadenaSplit[1];
 	}
-	
+
 	private static String extractElementBefore(String cadena) {
-		while(!Character.isLetter(cadena.charAt(0))) {
-			cadena = cadena.substring(1,cadena.length());
+		while (!Character.isLetter(cadena.charAt(0))) {
+			cadena = cadena.substring(1, cadena.length());
 		}
-		//String[] cadenaSplit = cadena.split(";");
-		//return cadenaSplit[cadenaSplit.length-1];
+		// String[] cadenaSplit = cadena.split(";");
+		// return cadenaSplit[cadenaSplit.length-1];
 		return cadena;
 	}
 
@@ -320,7 +362,7 @@ public class ScrapingLaLigaFantasyMarca {
 			Element player = doc.createElement("player");
 			players.appendChild(player);
 			Integer contador = 0;
-			String cadena	= "";
+			String cadena = "";
 			Elements playerData = elem.select("td");
 			for (Element playerElement : playerData) {
 				contador++;
@@ -330,7 +372,7 @@ public class ScrapingLaLigaFantasyMarca {
 					attrName = "name";
 					cadena = playerElement.text();
 					cadena = extractElementBefore(cadena);
-					//cadena = cadena2.trim();
+					// cadena = cadena2.trim();
 					Elements playerDataIds = elem.select("a");
 
 					if (!playerDataIds.isEmpty()) {
