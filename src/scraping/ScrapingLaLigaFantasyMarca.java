@@ -163,7 +163,15 @@ public class ScrapingLaLigaFantasyMarca {
 				}
 				break;
 			case 2:
-				playerElement.attr("name", element3.text());
+				Elements dataAux = element3.select("span > label");
+				if(orden == DataOrder.PointsNameEmpty) {
+					playerElement.attr("name", dataAux.get(0).text());
+					playerElement.attr("pos", dataAux.get(1).text());
+				}	else {
+					playerElement.attr("name", dataAux.get(1).text());
+					playerElement.attr("pos", dataAux.get(0).text());
+				}
+				
 				break;
 			case 3:
 				if(orden == DataOrder.EmptyNamePoints) {
