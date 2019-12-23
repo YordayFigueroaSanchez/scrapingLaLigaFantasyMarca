@@ -26,9 +26,9 @@ public class ScrapingLaLigaFantasyMarca {
 	public static void main(String[] args) throws ParserConfigurationException, TransformerConfigurationException {
 		// TODO Auto-generated method stub
 
-		String url = "https://coinmarketcap.com/";
+		String url = "https://www.laligafantasymarca.com/match/1/7/cd-leganes-vs-c-a-osasuna";
 
-		String file = "jornada02.html";
+		String file = "jornada01.html";
 		int contador = 0;
 
 		File input = new File("data/" + file);
@@ -57,11 +57,12 @@ public class ScrapingLaLigaFantasyMarca {
 			Document documento = getHtmlFileToDocument(file);
 
 //			Analizando el score del juego
-			Elements matchesContainer = documento.select("div.matches-container__match");
+			//Elements matchesContainer = documento.select("div.matches-container__match");
+			Elements matchesContainer = documento.select("div.match.ng-star-inserted");
 			System.out.println(matchesContainer.size());
 
 			for (Element element : matchesContainer) {
-				jornadaElement.appendChild(extractGame(element, doc));
+				jornadaElement.appendChild(extractGame2(element, doc));
 
 			}
 
@@ -80,8 +81,8 @@ public class ScrapingLaLigaFantasyMarca {
 		try {
 			//writer = new BufferedWriter(new FileWriter(ruta + nombreFichero + ".xml"));
 			 writer = new BufferedWriter
-				    (new OutputStreamWriter(new FileOutputStream(ruta + nombreFichero + ".xml"), StandardCharsets.UTF_8));
-			System.out.println(jornadaElement.outerHtml());
+				    (new OutputStreamWriter(new FileOutputStream(ruta + nombreFichero + "-jornada-" + posJornada + ".xml"), StandardCharsets.UTF_8));
+			//System.out.println(jornadaElement.outerHtml());
 			writer.write(jornadaElement.outerHtml());
 
 		} catch (IOException e) {
@@ -159,41 +160,112 @@ public class ScrapingLaLigaFantasyMarca {
 	}
 	private static Element extractPlayerLocal(Element element2, Document doc, DataOrder orden) {
 		int contador;
-		Elements playerAux = element2.select("div > span");
-		contador = 0;
+		Elements playerAuxName = element2.select("div > div > span.match-stats__nickname > label");
+		Elements playerAuxPoint = element2.select("div > div > span.match-stats__points");
+		Elements playerAuxPosition = element2.select("div > div > span > fy-player-position > span.position > label");
+		Elements playerAuxUrl = element2.select("div > div > span.match-stats__image > img");
+		
+		
 		Element playerElement = doc.createElement("player");
+		playerElement.attr("name", playerAuxName.get(0).text().trim());
+		playerElement.attr("url_photo", playerAuxUrl.get(0).attr("src").trim());
+		playerElement.attr("point", playerAuxPoint.get(0).text().trim());
+		playerElement.attr("position", playerAuxPosition.get(0).text().trim());
+		
 
-		for (Element element3 : playerAux) {
-			System.out.println(element3.text());
-			contador++;
-			switch (contador) {
-			case 1:
-				if(orden == DataOrder.PointsNameEmpty) {
-					playerElement.attr("puntos", element3.text());
-				}
-				break;
-			case 2:
-				Elements dataAux = element3.select("span > label");
-				if(orden == DataOrder.PointsNameEmpty) {
-					playerElement.attr("name", dataAux.get(0).text());
-					playerElement.attr("pos", dataAux.get(1).text());
-				}	else {
-					playerElement.attr("name", dataAux.get(1).text());
-					playerElement.attr("pos", dataAux.get(0).text());
-				}
-				
-				break;
-			case 3:
-				if(orden == DataOrder.EmptyNamePoints) {
-					playerElement.attr("puntos", element3.text());
-				}
-				
-				break;
-			}
-		}
+//		contador = 0;
+//		for (Element element3 : playerAux) {
+//			System.out.println(element3.text());
+//			contador++;
+//			switch (contador) {
+//			case 1:
+//				if(orden == DataOrder.PointsNameEmpty) {
+//					playerElement.attr("puntos", element3.text());
+//				}
+//				break;
+//			case 2:
+//				Elements dataAux = element3.select("span > label");
+//				if(orden == DataOrder.PointsNameEmpty) {
+//					playerElement.attr("name", dataAux.get(0).text());
+//					playerElement.attr("pos", dataAux.get(1).text());
+//				}	else {
+//					playerElement.attr("name", dataAux.get(1).text());
+//					playerElement.attr("pos", dataAux.get(0).text());
+//				}
+//				
+//				break;
+//			case 3:
+//				if(orden == DataOrder.EmptyNamePoints) {
+//					playerElement.attr("puntos", element3.text());
+//				}
+//				
+//				break;
+//			}
+//		}
 		
 		return playerElement;
 	}
+	private static Element extractGame2(Element element, Document doc) {
+		int contador;
+		Element gameElement = doc.createElement("game");
+
+		Elements matchTeamLocal = element
+				.select("div.match-header.container-fluid.row > div.text-right > span.match-team__name");
+		System.out.println(matchTeamLocal.get(0).text());
+		gameElement.attr("name_local", matchTeamLocal.get(0).text());
+		Element teamElementLocal = doc.createElement("team");
+		gameElement.appendChild(teamElementLocal);
+		teamElementLocal.attr("name", matchTeamLocal.get(0).text());
+
+		Elements matchResult = element.select("div.match-header.container-fluid.row > div > div.match-header__score > span");
+//		System.out.println(matchResult.get(0).text());
+//		String marcador = matchResult.get(0).text();
+//		String [] marcadorSplit = marcador.split("-");
+		gameElement.attr("goal_local", matchResult.get(0).text().trim());
+		gameElement.attr("goal_visitor", matchResult.get(2).text().trim());
+		int teamLocalGoal = Integer.valueOf(matchResult.get(0).text().trim());
+		int teamVisitorGoal = Integer.valueOf(matchResult.get(2).text().trim());
+		int teamLocalPoints, teamVisitorPoints;
+		if (teamLocalGoal > teamVisitorGoal) {
+			teamLocalPoints = 3;
+			teamVisitorPoints = 0;
+		} else if (teamLocalGoal < teamVisitorGoal) {
+			teamLocalPoints = 0;
+			teamVisitorPoints = 3;
+		} else {
+			teamLocalPoints = 1;
+			teamVisitorPoints = 1;
+		}
+		
+		
+		Elements matchTeamVisitor = element
+				.select("div.match-header.container-fluid.row > div.text-left > span.match-team__name");
+		System.out.println(matchTeamVisitor.get(0).text());
+		gameElement.attr("name_visitor", matchTeamVisitor.get(0).text());
+		Element teamElementVisitor = doc.createElement("team");
+		gameElement.appendChild(teamElementVisitor);
+		teamElementVisitor.attr("name", matchTeamVisitor.get(0).text());
+
+		Elements matchPlayersLocal = element.select("div.match-points.container > div > div > div.match-stats__local > div");
+		for (Element element2 : matchPlayersLocal) {
+			teamElementLocal.appendChild(extractPlayerLocal(element2, doc, DataOrder.EmptyNamePoints));
+		}
+		
+		Elements matchPlayersVisiator = element.select("div.match-points.container > div > div > div.match-stats__visitor > div");
+		for (Element element2 : matchPlayersVisiator) {
+			teamElementVisitor.appendChild(extractPlayerLocal(element2, doc, DataOrder.PointsNameEmpty));
+		}
+		
+		teamElementLocal.attr("point", String.valueOf(teamLocalPoints));
+		teamElementVisitor.attr("point", String.valueOf(teamVisitorPoints));
+		
+		teamElementLocal.attr("goal", String.valueOf(teamLocalPoints));
+		teamElementVisitor.attr("goal", String.valueOf(teamVisitorPoints));
+
+		return gameElement;
+	}
+	
+	
 	private static Element extractGame(Element element, Document doc) {
 		int contador;
 		Element gameElement = doc.createElement("game");
