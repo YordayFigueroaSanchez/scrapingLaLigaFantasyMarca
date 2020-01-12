@@ -28,7 +28,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		String url = "https://www.laligafantasymarca.com/match/1/7/cd-leganes-vs-c-a-osasuna";
 
-		String file = "jornada01.html";
+		String file = "jornada18.html";
 		int contador = 0;
 
 		File input = new File("data/" + file);
@@ -58,7 +58,8 @@ public class ScrapingLaLigaFantasyMarca {
 
 //			Analizando el score del juego
 			//Elements matchesContainer = documento.select("div.matches-container__match");
-			Elements matchesContainer = documento.select("div.match.ng-star-inserted");
+			//Elements matchesContainer = documento.select("div.match.ng-star-inserted");
+			Elements matchesContainer = documento.select("div.match");
 			System.out.println(matchesContainer.size());
 
 			for (Element element : matchesContainer) {
@@ -168,40 +169,15 @@ public class ScrapingLaLigaFantasyMarca {
 		
 		Element playerElement = doc.createElement("player");
 		playerElement.attr("name", playerAuxName.get(0).text().trim());
+		String url_photo = playerAuxUrl.get(0).attr("src").trim();
+		String [] url_photoArreglo = url_photo.split("/");
+		String codigo = url_photoArreglo[8].split("_")[0].trim();//.substring(1, url_photoArreglo[6].length());
+		//System.out.println(codigo);
+		playerElement.attr("player_code", codigo);
 		playerElement.attr("url_photo", playerAuxUrl.get(0).attr("src").trim());
 		playerElement.attr("point", playerAuxPoint.get(0).text().trim());
 		playerElement.attr("position", playerAuxPosition.get(0).text().trim());
 		
-
-//		contador = 0;
-//		for (Element element3 : playerAux) {
-//			System.out.println(element3.text());
-//			contador++;
-//			switch (contador) {
-//			case 1:
-//				if(orden == DataOrder.PointsNameEmpty) {
-//					playerElement.attr("puntos", element3.text());
-//				}
-//				break;
-//			case 2:
-//				Elements dataAux = element3.select("span > label");
-//				if(orden == DataOrder.PointsNameEmpty) {
-//					playerElement.attr("name", dataAux.get(0).text());
-//					playerElement.attr("pos", dataAux.get(1).text());
-//				}	else {
-//					playerElement.attr("name", dataAux.get(1).text());
-//					playerElement.attr("pos", dataAux.get(0).text());
-//				}
-//				
-//				break;
-//			case 3:
-//				if(orden == DataOrder.EmptyNamePoints) {
-//					playerElement.attr("puntos", element3.text());
-//				}
-//				
-//				break;
-//			}
-//		}
 		
 		return playerElement;
 	}
@@ -247,11 +223,21 @@ public class ScrapingLaLigaFantasyMarca {
 		teamElementVisitor.attr("name", matchTeamVisitor.get(0).text());
 
 		Elements matchPlayersLocal = element.select("div.match-points.container > div > div > div.match-stats__local > div");
+		String codigoTeamLocal = matchPlayersLocal
+				.get(0).select("div > div > span.match-stats__image > img")
+				.get(0).attr("src").trim()
+				.split("/")[8].trim().split("_")[1].trim();
+		teamElementLocal.attr("team_code", codigoTeamLocal);
 		for (Element element2 : matchPlayersLocal) {
 			teamElementLocal.appendChild(extractPlayerLocal(element2, doc, DataOrder.EmptyNamePoints));
 		}
 		
 		Elements matchPlayersVisiator = element.select("div.match-points.container > div > div > div.match-stats__visitor > div");
+		String codigoTeamVisitador = matchPlayersVisiator
+				.get(0).select("div > div > span.match-stats__image > img")
+				.get(0).attr("src").trim()
+				.split("/")[8].trim().split("_")[1].trim();
+		teamElementVisitor.attr("team_code", codigoTeamVisitador);
 		for (Element element2 : matchPlayersVisiator) {
 			teamElementVisitor.appendChild(extractPlayerLocal(element2, doc, DataOrder.PointsNameEmpty));
 		}
