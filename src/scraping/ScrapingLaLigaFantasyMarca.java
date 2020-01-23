@@ -28,7 +28,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		String url = "https://www.laligafantasymarca.com/match/1/7/cd-leganes-vs-c-a-osasuna";
 
-		String file = "jornada18.html";
+		String file = "jornada19.html";
 		int contador = 0;
 
 		File input = new File("data/" + file);
@@ -64,9 +64,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 			for (Element element : matchesContainer) {
 				jornadaElement.appendChild(extractGame2(element, doc));
-
 			}
-
 		}
 
 		// nombre del fichero
@@ -170,9 +168,13 @@ public class ScrapingLaLigaFantasyMarca {
 		Element playerElement = doc.createElement("player");
 		playerElement.attr("name", playerAuxName.get(0).text().trim());
 		String url_photo = playerAuxUrl.get(0).attr("src").trim();
+		System.out.println(url_photo);
 		String [] url_photoArreglo = url_photo.split("/");
-		String codigo = url_photoArreglo[8].split("_")[0].trim();//.substring(1, url_photoArreglo[6].length());
-		//System.out.println(codigo);
+//		System.out.println(url_photoArreglo.length);
+		String [] codigoArreglo = url_photoArreglo[8].split("_");
+//		System.out.println(codigoArreglo.length);
+		String codigo = codigoArreglo[0].trim();//.substring(1, url_photoArreglo[6].length());
+//		System.out.println(codigo);
 		playerElement.attr("player_code", codigo);
 		playerElement.attr("url_photo", playerAuxUrl.get(0).attr("src").trim());
 		playerElement.attr("point", playerAuxPoint.get(0).text().trim());
@@ -335,7 +337,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		for (Element elem : elementos) {
 
-			// para no tomar la primera entrada que tiene el encabezado
+//			para no tomar la primera entrada que tiene el encabezado
 //			if (!(elem.equals(elementos.first()))) {
 //				System.out.println("ok");
 
@@ -346,8 +348,8 @@ public class ScrapingLaLigaFantasyMarca {
 			for (Element playerElement : playerData) {
 				contador++;
 
-				// tomar el data-label
-				// String dataLabel = playerElement.attr("data-label");
+//				tomar el data-label
+//				String dataLabel = playerElement.attr("data-label");
 
 				String attrName = "";
 				String cadena = "";
@@ -357,13 +359,13 @@ public class ScrapingLaLigaFantasyMarca {
 					attrName = "name";
 					cadena = playerElement.text();
 					cadena = extractElementBefore(cadena);
-					// cadena = cadena2.trim();
+//					 cadena = cadena2.trim();
 					Elements playerDataIds = elem.select("a");
 
 					if (!playerDataIds.isEmpty()) {
 						Element playerDataId = playerDataIds.get(0);
 						String playerDataIdA = playerDataId.attr("href");
-						// atributo del player
+//						 atributo del player
 						player.attr("id", extractIdLink(playerDataIdA));
 					}
 					break;
@@ -416,9 +418,8 @@ public class ScrapingLaLigaFantasyMarca {
 					cadena = playerElement.text();
 					break;
 				}
-				// String cadena = playerElement.text();
-
-				// atributo del player
+//				String cadena = playerElement.text();
+//				atributo del player
 //					Attr attr = doc.createAttribute(attrName);
 //					attr.setValue(cadena);
 //					player.setAttributeNode(attr);
@@ -440,8 +441,8 @@ public class ScrapingLaLigaFantasyMarca {
 		while (!Character.isLetter(cadena.charAt(0))) {
 			cadena = cadena.substring(1, cadena.length());
 		}
-		// String[] cadenaSplit = cadena.split(";");
-		// return cadenaSplit[cadenaSplit.length-1];
+//		String[] cadenaSplit = cadena.split(";");
+//		return cadenaSplit[cadenaSplit.length-1];
 		return cadena;
 	}
 
@@ -468,13 +469,13 @@ public class ScrapingLaLigaFantasyMarca {
 					attrName = "name";
 					cadena = playerElement.text();
 					cadena = extractElementBefore(cadena);
-					// cadena = cadena2.trim();
+//					cadena = cadena2.trim();
 					Elements playerDataIds = elem.select("a");
 
 					if (!playerDataIds.isEmpty()) {
 						Element playerDataId = playerDataIds.get(0);
 						String playerDataIdA = playerDataId.attr("href");
-						// atributo del player
+//						atributo del player
 						player.attr("id", extractIdLink(playerDataIdA));
 					}
 					break;

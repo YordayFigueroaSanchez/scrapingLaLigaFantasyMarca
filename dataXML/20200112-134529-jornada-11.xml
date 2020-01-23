@@ -1,0 +1,412 @@
+<jornada nro="11">
+ <game name_local="D. Alavés" goal_local="1" goal_visitor="1" name_visitor="Atlético de Madrid">
+  <team name="D. Alavés" team_code="t173" point="1" goal="1">
+   <player name="Pacheco" player_code="p91406" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p91406_t173_2019_1_003_000.png" point="5" position="Por"></player>
+   <player name="Sivera" player_code="p176245" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p176245_t173_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Rubén Duarte" player_code="p126119" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p126119_t173_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Martín" player_code="p246162" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p246162_t173_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Aleix Vidal" player_code="p79627" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p79627_t173_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Laguardia" player_code="p49370" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p49370_t173_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Magallan" player_code="p86940" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p86940_t173_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Wakaso" player_code="p55179" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p55179_t173_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Tomás Pina" player_code="p80956" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p80956_t173_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Pere Pons" player_code="p131411" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p131411_t173_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Manu García" player_code="p55378" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p55378_t173_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Oliver Burke" player_code="p197937" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p197937_t173_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Guidetti" player_code="p82970" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p82970_t173_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Joselu" player_code="p61316" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p61316_t173_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Luis Rioja" player_code="p434941" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p434941_t173_2019_1_003_000.png" point="5" position="Del"></player>
+   <player name="Lucas Pérez" player_code="p155851" url_photo="https://assets.laliga.com/assets/2019/09/11/128x128/p155851_t173_2019_1_003_000.png" point="10" position="Del"></player>
+  </team>
+  <team name="Atlético de Madrid" team_code="t175" point="1" goal="1">
+   <player name="Adán" player_code="p59981" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p59981_t175_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Oblak" player_code="p81352" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p81352_t175_2019_1_003_000.png" point="4" position="Por"></player>
+   <player name="Lodi" player_code="p233420" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p233420_t175_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Trippier" player_code="p77794" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p77794_t175_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Arias" player_code="p102383" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p102383_t175_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Hermoso" player_code="p213431" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p213431_t175_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Felipe" player_code="p116404" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p116404_t175_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Héctor Herrera" player_code="p102578" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p102578_t175_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Saúl" player_code="p89335" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p89335_t175_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Koke" player_code="p77390" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p77390_t175_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Riquelme" player_code="p437834" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p437834_t175_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Lemar" player_code="p167449" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p167449_t175_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Thomas" player_code="p167199" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p167199_t175_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Marcos Llorente" player_code="p192364" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p192364_t175_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Vitolo" player_code="p86399" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p86399_t175_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Diego Costa" player_code="p18507" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p18507_t175_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Morata" player_code="p88482" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p88482_t175_2019_1_003_000.png" point="8" position="Del"></player>
+   <player name="Correa" player_code="p156223" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p156223_t175_2019_1_003_000.png" point="6" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="FC Barcelona" goal_local="5" goal_visitor="1" name_visitor="R. Valladolid CF">
+  <team name="FC Barcelona" team_code="t178" point="3" goal="3">
+   <player name="Ter Stegen" player_code="p77318" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p77318_t178_2019_1_003_000.png" point="3" position="Por"></player>
+   <player name="Neto" player_code="p69752" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p69752_t178_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Jordi Alba" player_code="p52356" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p52356_t178_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Lenglet" player_code="p171101" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p171101_t178_2019_1_003_000.png" point="11" position="Def"></player>
+   <player name="N. Semedo" player_code="p200402" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p200402_t178_2019_1_003_000.png" point="6" position="Def"></player>
+   <player name="Piqué" player_code="p18221" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p18221_t178_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Todibo" player_code="p462116" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p462116_t178_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Sergi Roberto" player_code="p86157" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p86157_t178_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="De Jong" player_code="p209712" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p209712_t178_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Aleñá" player_code="p179271" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p179271_t178_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Busquets" player_code="p54104" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p54104_t178_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Rakitić" player_code="p34703" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p34703_t178_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Arturo Vidal" player_code="p42565" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p42565_t178_2019_1_003_000.png" point="9" position="Cen"></player>
+   <player name="Messi" player_code="p19054" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p19054_t178_2019_1_003_000.png" point="26" position="Del"></player>
+   <player name="Luis Suárez" player_code="p39336" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p39336_t178_2019_1_003_000.png" point="9" position="Del"></player>
+   <player name="C. Pérez" player_code="p179369" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p179369_t178_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Ansu Fati" player_code="p465607" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p465607_t178_2019_1_003_000.png" point="5" position="Del"></player>
+   <player name="Griezmann" player_code="p76650" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p76650_t178_2019_1_003_000.png" point="3" position="Del"></player>
+  </team>
+  <team name="R. Valladolid CF" team_code="t192" point="0" goal="0">
+   <player name="Masip" player_code="p86148" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p86148_t192_2019_1_003_000.png" point="1" position="Por"></player>
+   <player name="Lunin" player_code="p224965" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p224965_t192_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Nacho" player_code="p90394" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p90394_t192_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Antoñito" player_code="p87804" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p87804_t192_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Fede Barba" player_code="p127122" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p127122_t192_2019_1_003_000.png" point="-3" position="Def"></player>
+   <player name="Salisu" player_code="p450527" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p450527_t192_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Joaquín Fernández" player_code="p220122" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p220122_t192_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Pedro Porro" player_code="p441164" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p441164_t192_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Kiko Olivas" player_code="p58819" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p58819_t192_2019_1_003_000.png" point="6" position="Def"></player>
+   <player name="Alcaraz" player_code="p96771" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p96771_t192_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Óscar Plano" player_code="p96785" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p96785_t192_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Michel" player_code="p58876" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p58876_t192_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Anuar" player_code="p198906" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p198906_t192_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Hervías" player_code="p143622" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p143622_t192_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Waldo" player_code="p443761" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p443761_t192_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="De Frutos" player_code="p241153" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p241153_t192_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Sergi Guardiola" player_code="p89850" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p89850_t192_2019_1_003_000.png" point="-1" position="Del"></player>
+   <player name="Enes Ünal" player_code="p168636" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p168636_t192_2019_1_003_000.png" point="0" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Real Sociedad" goal_local="1" goal_visitor="2" name_visitor="Levante UD">
+  <team name="Real Sociedad" team_code="t188" point="0" goal="0">
+   <player name="Moyá" player_code="p16872" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p16872_t188_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Remiro" player_code="p197316" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p197316_t188_2019_1_003_000.png" point="5" position="Por"></player>
+   <player name="Monreal" player_code="p38411" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p38411_t188_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Diego Llorente" player_code="p149915" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p149915_t188_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Zaldua" player_code="p98821" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p98821_t188_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Le Normand" player_code="p224919" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p224919_t188_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Gorosabel" player_code="p235227" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p235227_t188_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Mikel Merino" player_code="p195384" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p195384_t188_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Barrenetxea" player_code="p471138" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p471138_t188_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Januzaj" player_code="p154976" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p154976_t188_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Sangalli" player_code="p201179" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p201179_t188_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Ander Guevara" player_code="p431644" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p431644_t188_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Oyarzabal" player_code="p219000" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p219000_t188_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Zubeldia" player_code="p216475" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p216475_t188_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Ødegaard" player_code="p184029" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p184029_t188_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Portu" player_code="p88550" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p88550_t188_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Isak" player_code="p219168" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p219168_t188_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Willian José" player_code="p73314" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p73314_t188_2019_1_003_000.png" point="6" position="Del"></player>
+  </team>
+  <team name="Levante UD" team_code="t855" point="3" goal="3">
+   <player name="Aitor Fdez." player_code="p80993" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p80993_t855_2019_1_003_000.png" point="6" position="Por"></player>
+   <player name="Postigo" player_code="p90400" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p90400_t855_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Óscar Duarte" player_code="p99128" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p99128_t855_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Vezo" player_code="p116206" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p116206_t855_2019_1_003_000.png" point="6" position="Def"></player>
+   <player name="Clerc" player_code="p108145" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p108145_t855_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Miramón" player_code="p89334" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p89334_t855_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Coke" player_code="p55268" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p55268_t855_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Melero" player_code="p195457" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p195457_t855_2019_1_003_000.png" point="8" position="Cen"></player>
+   <player name="Bardhi" player_code="p196739" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p196739_t855_2019_1_003_000.png" point="11" position="Cen"></player>
+   <player name="Vukčević" player_code="p96093" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p96093_t855_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Campaña" player_code="p88952" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p88952_t855_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Radoja" player_code="p100263" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p100263_t855_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Morales" player_code="p165375" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p165375_t855_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Hernâni" player_code="p160607" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p160607_t855_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Roger" player_code="p109702" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p109702_t855_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Borja Mayoral" player_code="p199248" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p199248_t855_2019_1_003_000.png" point="7" position="Del"></player>
+   <player name="Sergio León" player_code="p82418" url_photo="https://assets.laliga.com/assets/2019/10/31/128x128/p82418_t855_2019_1_003_000.png" point="0" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Valencia CF" goal_local="1" goal_visitor="1" name_visitor="Sevilla FC">
+  <team name="Valencia CF" team_code="t191" point="1" goal="1">
+   <player name="Jaume Domenech" player_code="p116732" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p116732_t191_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Cillessen" player_code="p72162" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p72162_t191_2019_1_003_000.png" point="3" position="Por"></player>
+   <player name="Thierry Correia" player_code="p222629" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p222629_t191_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Gabriel Paulista" player_code="p158074" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p158074_t191_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Jaume Costa" player_code="p58792" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p58792_t191_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Garay" player_code="p28525" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p28525_t191_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Diakhaby" player_code="p208135" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p208135_t191_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Gayá" player_code="p132105" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p132105_t191_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Kondogbia" player_code="p88754" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p88754_t191_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Parejo" player_code="p51952" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p51952_t191_2019_1_003_000.png" point="8" position="Cen"></player>
+   <player name="Lee Kang-In" player_code="p451358" url_photo="https://assets.laliga.com/assets/2019/10/30/128x128/p451358_t191_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Coquelin" player_code="p56864" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p56864_t191_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Soler" player_code="p224860" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p224860_t191_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Wass" player_code="p56624" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p56624_t191_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Manu Vallejo" player_code="p221511" url_photo="https://assets.laliga.com/assets/2019/10/30/128x128/p221511_t191_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Maxi Gómez" player_code="p215206" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p215206_t191_2019_1_003_000.png" point="4" position="Del"></player>
+   <player name="Ferrán Torres" player_code="p224444" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p224444_t191_2019_1_003_000.png" point="5" position="Del"></player>
+   <player name="Sobrino" player_code="p112994" url_photo="https://assets.laliga.com/assets/2019/10/30/128x128/p112994_t191_2019_1_003_000.png" point="8" position="Del"></player>
+  </team>
+  <team name="Sevilla FC" team_code="t179" point="1" goal="1">
+   <player name="Vaclík" player_code="p51945" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p51945_t179_2019_1_003_000.png" point="4" position="Por"></player>
+   <player name="Bono" player_code="p120026" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p120026_t179_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Diego Carlos" player_code="p165659" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p165659_t179_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Jesús Navas" player_code="p17740" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p17740_t179_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Escudero" player_code="p62991" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p62991_t179_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Koundé" player_code="p220325" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p220325_t179_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Fernando" player_code="p52538" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p52538_t179_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Banega" player_code="p49309" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p49309_t179_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Joan Jordán" player_code="p195364" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p195364_t179_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Gudelj" player_code="p72154" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p72154_t179_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Óliver Torres" player_code="p115860" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p115860_t179_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="F. Vázquez" player_code="p100731" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p100731_t179_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Munir" player_code="p170864" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p170864_t179_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Chicharito" player_code="p43020" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p43020_t179_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Ocampos" player_code="p121117" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p121117_t179_2019_1_003_000.png" point="8" position="Del"></player>
+   <player name="Luuk de Jong" player_code="p53041" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p53041_t179_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Nolito" player_code="p86173" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p86173_t179_2019_1_003_000.png" point="0" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Athletic Club" goal_local="3" goal_visitor="0" name_visitor="RCD Espanyol">
+  <team name="Athletic Club" team_code="t174" point="3" goal="3">
+   <player name="Unai Simón" player_code="p212769" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p212769_t174_2019_1_003_000.png" point="12" position="Por"></player>
+   <player name="Herrerín" player_code="p89292" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p89292_t174_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Capa" player_code="p140266" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p140266_t174_2019_1_003_000.png" point="8" position="Def"></player>
+   <player name="San José" player_code="p42995" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p42995_t174_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Yuri" player_code="p42670" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p42670_t174_2019_1_003_000.png" point="10" position="Def"></player>
+   <player name="Iñigo Martínez" player_code="p90318" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p90318_t174_2019_1_003_000.png" point="8" position="Def"></player>
+   <player name="Lekue" player_code="p197314" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p197314_t174_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Unai Núñez" player_code="p242830" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p242830_t174_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Yeray" player_code="p197319" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p197319_t174_2019_1_003_000.png" point="10" position="Def"></player>
+   <player name="Unai López" player_code="p183462" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p183462_t174_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Muniain" player_code="p76012" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p76012_t174_2019_1_003_000.png" point="19" position="Cen"></player>
+   <player name="Córdoba" player_code="p215684" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p215684_t174_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Ibai" player_code="p84471" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p84471_t174_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Dani García" player_code="p140264" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p140264_t174_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Raúl García" player_code="p18498" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p18498_t174_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Gaizka Larrazabal" player_code="p242260" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p242260_t174_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Aduriz" player_code="p14464" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p14464_t174_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Williams" player_code="p197334" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p197334_t174_2019_1_003_000.png" point="3" position="Del"></player>
+  </team>
+  <team name="RCD Espanyol" team_code="t177" point="0" goal="0">
+   <player name="Andrés Prieto" player_code="p121170" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p121170_t177_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Diego López" player_code="p16021" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p16021_t177_2019_1_003_000.png" point="3" position="Por"></player>
+   <player name="David López" player_code="p11129" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p11129_t177_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Dídac" player_code="p59790" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p59790_t177_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Javi López" player_code="p78333" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p78333_t177_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Lluís López" player_code="p215686" url_photo="https://assets.laliga.com/assets/2019/09/02/128x128/p215686_t177_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Bernardo" player_code="p55317" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p55317_t177_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Naldo" player_code="p100692" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p100692_t177_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Adrià Pedrosa" player_code="p446990" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p446990_t177_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Granero" player_code="p46998" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p46998_t177_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Víctor Sánchez" player_code="p49267" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p49267_t177_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Darder" player_code="p169007" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p169007_t177_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Marc Roca" player_code="p234370" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p234370_t177_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Ferreyra" player_code="p86527" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p86527_t177_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Campuzano" player_code="p241703" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p241703_t177_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Matias Vargas" player_code="p210424" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p210424_t177_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Wu Lei" player_code="p116730" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p116730_t177_2019_1_003_000.png" point="2" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Real Betis" goal_local="2" goal_visitor="1" name_visitor="RC Celta">
+  <team name="Real Betis" team_code="t185" point="3" goal="3">
+   <player name="Joel Robles" player_code="p78315" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p78315_t185_2019_1_003_000.png" point="5" position="Por"></player>
+   <player name="Álex Moreno" player_code="p106468" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p106468_t185_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Emerson" player_code="p241157" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p241157_t185_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Sidnei" player_code="p53142" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p53142_t185_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Bartra" player_code="p81138" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p81138_t185_2019_1_003_000.png" point="6" position="Def"></player>
+   <player name="Feddal" player_code="p89747" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p89747_t185_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Barragán" player_code="p20399" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p20399_t185_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Mandi" player_code="p86813" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p86813_t185_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Tello" player_code="p86169" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p86169_t185_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Diego Lainez" player_code="p224389" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p224389_t185_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Canales" player_code="p56448" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p56448_t185_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Guardado" player_code="p37064" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p37064_t185_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Joaquín" player_code="p10316" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p10316_t185_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Fekir" player_code="p166552" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p166552_t185_2019_1_003_000.png" point="12" position="Del"></player>
+   <player name="Borja Iglesias" player_code="p202044" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p202044_t185_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Loren" player_code="p432751" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p432751_t185_2019_1_003_000.png" point="2" position="Del"></player>
+  </team>
+  <team name="RC Celta" team_code="t176" point="0" goal="0">
+   <player name="Rubén Blanco" player_code="p106539" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p106539_t176_2019_1_003_000.png" point="2" position="Por"></player>
+   <player name="Sergio Álvarez" player_code="p38400" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p38400_t176_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Juncà" player_code="p105488" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p105488_t176_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="David Costas" player_code="p169205" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p169205_t176_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Hugo Mallo" player_code="p76508" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p76508_t176_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Aidoo" player_code="p210171" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p210171_t176_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Olaza" player_code="p152563" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p152563_t176_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Néstor Araújo" player_code="p100868" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p100868_t176_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Denis Suárez" player_code="p89572" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p89572_t176_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Lobotka" player_code="p101820" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p101820_t176_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Okay" player_code="p101394" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p101394_t176_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Rafinha" player_code="p92819" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p92819_t176_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Brais Méndez" player_code="p178880" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p178880_t176_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Fran Beltrán" player_code="p234511" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p234511_t176_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Gabriel Fernández" player_code="p154414" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p154414_t176_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Aspas" player_code="p40270" url_photo="https://assets.laliga.com/assets/2019/09/06/128x128/p40270_t176_2019_1_003_000.png" point="7" position="Del"></player>
+   <player name="Santi Mina" player_code="p150360" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p150360_t176_2019_1_003_000.png" point="2" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Real Madrid" goal_local="5" goal_visitor="0" name_visitor="CD Leganés">
+  <team name="Real Madrid" team_code="t186" point="3" goal="3">
+   <player name="Courtois" player_code="p60772" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p60772_t186_2019_1_003_000.png" point="9" position="Por"></player>
+   <player name="Areola" player_code="p84182" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p84182_t186_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Militão" player_code="p218449" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p218449_t186_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Carvajal" player_code="p88483" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p88483_t186_2019_1_003_000.png" point="15" position="Def"></player>
+   <player name="Sergio Ramos" player_code="p17861" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p17861_t186_2019_1_003_000.png" point="16" position="Def"></player>
+   <player name="Mendy" player_code="p206255" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p206255_t186_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Varane" player_code="p90152" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p90152_t186_2019_1_003_000.png" point="8" position="Def"></player>
+   <player name="Marcelo" player_code="p39563" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p39563_t186_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Modrić" player_code="p37055" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p37055_t186_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Lucas Vázquez" player_code="p107593" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p107593_t186_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Kroos" player_code="p44989" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p44989_t186_2019_1_003_000.png" point="13" position="Cen"></player>
+   <player name="Fede Valverde" player_code="p223255" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p223255_t186_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Casemiro" player_code="p61256" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p61256_t186_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Isco" player_code="p80209" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p80209_t186_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Rodrygo" player_code="p440077" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p440077_t186_2019_1_003_000.png" point="10" position="Del"></player>
+   <player name="Jović" player_code="p185533" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p185533_t186_2019_1_003_000.png" point="8" position="Del"></player>
+   <player name="Hazard" player_code="p42786" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p42786_t186_2019_1_003_000.png" point="8" position="Del"></player>
+   <player name="Benzema" player_code="p19927" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p19927_t186_2019_1_003_000.png" point="19" position="Del"></player>
+  </team>
+  <team name="CD Leganés" team_code="t957" point="0" goal="0">
+   <player name="Soriano" player_code="p178874" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p178874_t957_2019_1_003_000.png" point="1" position="Por"></player>
+   <player name="Cuéllar" player_code="p16261" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p16261_t957_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Rosales" player_code="p48832" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p48832_t957_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Kévin Rodrigues" player_code="p116626" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p116626_t957_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Awaziem" player_code="p222874" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p222874_t957_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Jonathan Silva" player_code="p116132" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p116132_t957_2019_1_003_000.png" point="-2" position="Def"></player>
+   <player name="Bustinza" player_code="p112540" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p112540_t957_2019_1_003_000.png" point="-2" position="Def"></player>
+   <player name="Omeruo" player_code="p112991" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p112991_t957_2019_1_003_000.png" point="-2" position="Def"></player>
+   <player name="Tarín" player_code="p210419" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p210419_t957_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Christian Rivera" player_code="p213572" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p213572_t957_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Óscar Rodríguez" player_code="p223757" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p223757_t957_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Recio" player_code="p91338" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p91338_t957_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Braithwaite" player_code="p68690" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p68690_t957_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="En-Nesyri" player_code="p234991" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p234991_t957_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Aitor Ruibal" player_code="p441303" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p441303_t957_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Guido Carrillo" player_code="p98914" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p98914_t957_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Arnáiz" player_code="p219173" url_photo="https://assets.laliga.com/assets/2019/08/28/128x128/p219173_t957_2019_1_003_000.png" point="0" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="SD Eibar" goal_local="2" goal_visitor="1" name_visitor="Villarreal CF">
+  <team name="SD Eibar" team_code="t953" point="3" goal="3">
+   <player name="Dmitrović" player_code="p94618" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p94618_t953_2019_1_003_000.png" point="4" position="Por"></player>
+   <player name="Yoel" player_code="p76510" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p76510_t953_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="José A. Cote" player_code="p59140" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p59140_t953_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Bigas" player_code="p91393" url_photo="https://assets.laliga.com/assets/2019/09/16/128x128/p91393_t953_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Arbilla" player_code="p87026" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p87026_t953_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Tejero" player_code="p199244" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p199244_t953_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Esteban Burgos" player_code="p169873" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p169873_t953_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Paulo Oliveira" player_code="p87499" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p87499_t953_2019_1_003_000.png" point="4" position="Def"></player>
+   <player name="Pablo de Blasis" player_code="p126510" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p126510_t953_2019_1_003_000.png" point="13" position="Cen"></player>
+   <player name="Edu Expósito" player_code="p420909" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p420909_t953_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Pedro León" player_code="p42839" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p42839_t953_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Inui" player_code="p103263" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p103263_t953_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Orellana" player_code="p48854" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p48854_t953_2019_1_003_000.png" point="17" position="Cen"></player>
+   <player name="Escalante" player_code="p156305" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p156305_t953_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Diop" player_code="p27672" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p27672_t953_2019_1_003_000.png" point="7" position="Cen"></player>
+   <player name="Kike García" player_code="p61597" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p61597_t953_2019_1_003_000.png" point="11" position="Del"></player>
+   <player name="Sergi Enrich" player_code="p80791" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p80791_t953_2019_1_003_000.png" point="4" position="Del"></player>
+   <player name="Charles" player_code="p86349" url_photo="https://assets.laliga.com/assets/2019/08/30/128x128/p86349_t953_2019_1_003_000.png" point="2" position="Del"></player>
+  </team>
+  <team name="Villarreal CF" team_code="t449" point="0" goal="0">
+   <player name="Andrés Fdez." player_code="p51792" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p51792_t449_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Asenjo" player_code="p48772" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p48772_t449_2019_1_003_000.png" point="6" position="Por"></player>
+   <player name="Albiol" player_code="p18003" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p18003_t449_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Quintillà" player_code="p164089" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p164089_t449_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Pau Torres" player_code="p244954" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p244954_t449_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Mario" player_code="p76610" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p76610_t449_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Funes Mori" player_code="p121221" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p121221_t449_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Samu Chukwueze" player_code="p218328" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p218328_t449_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Ontiveros" player_code="p219855" url_photo="https://assets.laliga.com/assets/2019/10/01/128x128/p219855_t449_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Anguissa" player_code="p203325" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p203325_t449_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Iborra" player_code="p54513" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p54513_t449_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Moi Gómez" player_code="p109243" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p109243_t449_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Trigueros" player_code="p98961" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p98961_t449_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Cazorla" player_code="p19524" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p19524_t449_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Toko Ekambi" player_code="p193454" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p193454_t449_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Bacca" player_code="p111274" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p111274_t449_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Gerard" player_code="p93721" url_photo="https://assets.laliga.com/assets/2019/09/18/128x128/p93721_t449_2019_1_003_000.png" point="7" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="RCD Mallorca" goal_local="2" goal_visitor="2" name_visitor="C.A. Osasuna">
+  <team name="RCD Mallorca" team_code="t181" point="1" goal="1">
+   <player name="Fabricio" player_code="p40559" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p40559_t181_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Manuel Reina" player_code="p32298" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p32298_t181_2019_1_003_000.png" point="4" position="Por"></player>
+   <player name="Xisco Campos" player_code="p19484" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p19484_t181_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Lumor" player_code="p246477" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p246477_t181_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Valjent" player_code="p170116" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p170116_t181_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Raíllo" player_code="p105571" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p105571_t181_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Gámez" player_code="p455197" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p455197_t181_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Salva Sevilla" player_code="p55354" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p55354_t181_2019_1_003_000.png" point="9" position="Cen"></player>
+   <player name="Febas" player_code="p199250" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p199250_t181_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Baba" player_code="p463170" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p463170_t181_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Marc Pedraza" player_code="p42869" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p42869_t181_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Dani Rodríguez" player_code="p80906" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p80906_t181_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Lago Junior" player_code="p60757" url_photo="https://assets.laliga.com/assets/2019/10/30/128x128/p60757_t181_2019_1_003_000.png" point="10" position="Del"></player>
+   <player name="Abdón Prats" player_code="p92187" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p92187_t181_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Trajkovski" player_code="p85085" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p85085_t181_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Ante Budimir" player_code="p94273" url_photo="https://assets.laliga.com/assets/2019/09/03/128x128/p94273_t181_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Kubo" player_code="p219271" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p219271_t181_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Salibur" player_code="p55343" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p55343_t181_2019_1_003_000.png" point="2" position="Del"></player>
+  </team>
+  <team name="C.A. Osasuna" team_code="t450" point="1" goal="1">
+   <player name="S. Herrera" player_code="p138039" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p138039_t450_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Rubén" player_code="p71679" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p71679_t450_2019_1_003_000.png" point="2" position="Por"></player>
+   <player name="Aridane" player_code="p89399" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p89399_t450_2019_1_003_000.png" point="5" position="Def"></player>
+   <player name="Roncaglia" player_code="p54794" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p54794_t450_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Estupiñán" player_code="p204214" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p204214_t450_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Lillo" player_code="p51949" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p51949_t450_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="David García" player_code="p98851" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p98851_t450_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Iñigo Pérez" player_code="p78874" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p78874_t450_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Brasanac" player_code="p84700" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p84700_t450_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Roberto Torres" player_code="p90402" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p90402_t450_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Luis Perea" player_code="p421115" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p421115_t450_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Jon Moncayola" player_code="p477463" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p477463_t450_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Fran Mérida" player_code="p38519" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p38519_t450_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Chimy Ávila" player_code="p205992" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p205992_t450_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Rubén García" player_code="p130026" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p130026_t450_2019_1_003_000.png" point="9" position="Del"></player>
+   <player name="Juan Villar" player_code="p56449" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p56449_t450_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Brandon" player_code="p141115" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p141115_t450_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Marc Cardona" player_code="p244363" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p244363_t450_2019_1_003_000.png" point="9" position="Del"></player>
+  </team>
+ </game>
+ <game name_local="Getafe CF" goal_local="3" goal_visitor="1" name_visitor="Granada CF">
+  <team name="Getafe CF" team_code="t1450" point="3" goal="3">
+   <player name="Chichizola" player_code="p93921" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p93921_t1450_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="David Soria" player_code="p175204" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p175204_t1450_2019_1_003_000.png" point="2" position="Por"></player>
+   <player name="Nyom" player_code="p67527" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p67527_t1450_2019_1_003_000.png" point="3" position="Def"></player>
+   <player name="Etxeita" player_code="p58637" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p58637_t1450_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Damián" player_code="p99005" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p99005_t1450_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Cabrera" player_code="p64662" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p64662_t1450_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Djené" player_code="p149838" url_photo="https://assets.laliga.com/assets/2019/09/26/128x128/p149838_t1450_2019_1_003_000.png" point="6" position="Def"></player>
+   <player name="Kenedy" player_code="p167767" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p167767_t1450_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Cucurella" player_code="p179268" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p179268_t1450_2019_1_003_000.png" point="8" position="Cen"></player>
+   <player name="Arambarri" player_code="p171222" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p171222_t1450_2019_1_003_000.png" point="9" position="Cen"></player>
+   <player name="Portillo" player_code="p80795" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p80795_t1450_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Maksimovic" player_code="p198499" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p198499_t1450_2019_1_003_000.png" point="4" position="Cen"></player>
+   <player name="Timor" player_code="p90407" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p90407_t1450_2019_1_003_000.png" point="8" position="Cen"></player>
+   <player name="Jason" player_code="p163784" url_photo="https://assets.laliga.com/assets/2019/09/25/128x128/p163784_t1450_2019_1_003_000.png" point="8" position="Cen"></player>
+   <player name="Mata" player_code="p109270" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p109270_t1450_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Ángel" player_code="p56419" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p56419_t1450_2019_1_003_000.png" point="7" position="Del"></player>
+   <player name="Jorge Molina" player_code="p76555" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p76555_t1450_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Enric Gallego" player_code="p454317" url_photo="https://assets.laliga.com/assets/2019/09/09/128x128/p454317_t1450_2019_1_003_000.png" point="0" position="Del"></player>
+  </team>
+  <team name="Granada CF" team_code="t5683" point="0" goal="0">
+   <player name="Aarón Escandell" player_code="p176278" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p176278_t5683_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Rui Silva" player_code="p124097" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p124097_t5683_2019_1_003_000.png" point="2" position="Por"></player>
+   <player name="Domingos Duarte" player_code="p200599" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p200599_t5683_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Victor Díaz" player_code="p55315" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p55315_t5683_2019_1_003_000.png" point="-1" position="Def"></player>
+   <player name="Germán" player_code="p87661" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p87661_t5683_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Quini" player_code="p106671" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p106671_t5683_2019_1_003_000.png" point="2" position="Def"></player>
+   <player name="Ismail" player_code="p56161" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p56161_t5683_2019_1_003_000.png" point="-2" position="Def"></player>
+   <player name="Carlos Neva" player_code="p472148" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p472148_t5683_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="J.A. Martínez" player_code="p231187" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p231187_t5683_2019_1_003_000.png" point="1" position="Def"></player>
+   <player name="Gonalons" player_code="p59963" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p59963_t5683_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Eteki" player_code="p218774" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p218774_t5683_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Azeez" player_code="p125945" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p125945_t5683_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Darwin Machis" player_code="p111133" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p111133_t5683_2019_1_003_000.png" point="4" position="Del"></player>
+   <player name="Soldado" player_code="p17926" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p17926_t5683_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Antonio Puertas" player_code="p156301" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p156301_t5683_2019_1_003_000.png" point="7" position="Del"></player>
+   <player name="Carlos Fernández" player_code="p176189" url_photo="https://assets.laliga.com/assets/2019/09/20/128x128/p176189_t5683_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Vadillo" player_code="p93338" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p93338_t5683_2019_1_003_000.png" point="0" position="Del"></player>
+   <player name="Adrián Ramos" player_code="p57254" url_photo="https://assets.laliga.com/assets/2019/08/27/128x128/p57254_t5683_2019_1_003_000.png" point="3" position="Del"></player>
+  </team>
+ </game>
+</jornada>
