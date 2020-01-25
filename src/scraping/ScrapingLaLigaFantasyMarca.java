@@ -28,7 +28,7 @@ public class ScrapingLaLigaFantasyMarca {
 
 		String url = "https://www.laligafantasymarca.com/match/1/7/cd-leganes-vs-c-a-osasuna";
 
-		String file = "jornada19.html";
+		String file = "jornada20.html";
 		int contador = 0;
 
 		File input = new File("data/" + file);
