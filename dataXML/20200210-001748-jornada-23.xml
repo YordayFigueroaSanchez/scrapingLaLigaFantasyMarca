@@ -307,7 +307,7 @@
    <player name="Aarón Escandell" player_code="p176278" url_photo="https://assets.laliga.com/squad/2019/t5683/p176278/128x128/p176278_t5683_2019_1_003_000.png" point="5" position="Por"></player>
    <player name="Rui Silva" player_code="p124097" url_photo="https://assets.laliga.com/squad/2019/t5683/p124097/128x128/p124097_t5683_2019_1_003_000.png" point="0" position="Por"></player>
    <player name="Domingos Duarte" player_code="p200599" url_photo="https://assets.laliga.com/squad/2019/t5683/p200599/128x128/p200599_t5683_2019_1_003_000.png" point="3" position="Def"></player>
-   <player name="Vallejo" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t5683/default/128x128/default_t5683_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Vallejo" player_code="p_Vallejo" url_photo="https://assets.laliga.com/squad/2019/t5683/default/128x128/default_t5683_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Victor Díaz" player_code="p55315" url_photo="https://assets.laliga.com/squad/2019/t5683/p55315/128x128/p55315_t5683_2019_1_003_000.png" point="1" position="Def"></player>
    <player name="Foulquier" player_code="p96767" url_photo="https://assets.laliga.com/squad/2019/t5683/p96767/128x128/p96767_t5683_2019_1_003_000.png" point="2" position="Def"></player>
    <player name="Ismail" player_code="p56161" url_photo="https://assets.laliga.com/squad/2019/t5683/p56161/128x128/p56161_t5683_2019_1_003_000.png" point="4" position="Def"></player>
