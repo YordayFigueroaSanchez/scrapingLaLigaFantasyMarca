@@ -155,7 +155,7 @@
    <player name="Amath" player_code="p225463" url_photo="https://assets.laliga.com/squad/2019/t1450/p225463/128x128/p225463_t1450_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Maksimovic" player_code="p198499" url_photo="https://assets.laliga.com/squad/2019/t1450/p198499/128x128/p198499_t1450_2019_1_003_000.png" point="6" position="Cen"></player>
    <player name="Timor" player_code="p90407" url_photo="https://assets.laliga.com/squad/2019/t1450/p90407/128x128/p90407_t1450_2019_1_003_000.png" point="1" position="Cen"></player>
-   <player name="Deyverson" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t1450/default/128x128/default_t1450_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Deyverson" player_code="p_Deyverson" url_photo="https://assets.laliga.com/squad/2019/t1450/default/128x128/default_t1450_2019_1_003_000.png" point="3" position="Del"></player>
    <player name="Mata" player_code="p109270" url_photo="https://assets.laliga.com/squad/2019/t1450/p109270/128x128/p109270_t1450_2019_1_003_000.png" point="10" position="Del"></player>
    <player name="Ángel" player_code="p56419" url_photo="https://assets.laliga.com/squad/2019/t1450/p56419/128x128/p56419_t1450_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="Jorge Molina" player_code="p76555" url_photo="https://assets.laliga.com/squad/2019/t1450/p76555/128x128/p76555_t1450_2019_1_003_000.png" point="2" position="Del"></player>
