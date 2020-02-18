@@ -105,7 +105,7 @@
    <player name="Jaume Domenech" player_code="p116732" url_photo="https://assets.laliga.com/squad/2019/t191/p116732/128x128/p116732_t191_2019_1_003_000.png" point="-1" position="Por"></player>
    <player name="Cillessen" player_code="p72162" url_photo="https://assets.laliga.com/squad/2019/t191/p72162/128x128/p72162_t191_2019_1_003_000.png" point="0" position="Por"></player>
    <player name="Mangala" player_code="p57112" url_photo="https://assets.laliga.com/squad/2019/t191/p57112/128x128/p57112_t191_2019_1_003_000.png" point="0" position="Def"></player>
-   <player name="Murillo" player_code="pmurillo" url_photo="https://assets.laliga.com/squad/2019/t191/pmurillo/128x128/pmurillo_t191_2019_1_003_000.png" point="8" position="Def"></player>
+   <player name="Murillo" player_code="p_murillo" url_photo="https://assets.laliga.com/squad/2019/t191/pmurillo/128x128/pmurillo_t191_2019_1_003_000.png" point="8" position="Def"></player>
    <player name="Gabriel Paulista" player_code="p158074" url_photo="https://assets.laliga.com/squad/2019/t191/p158074/128x128/p158074_t191_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Jaume Costa" player_code="p58792" url_photo="https://assets.laliga.com/squad/2019/t191/p58792/128x128/p58792_t191_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Diakhaby" player_code="p208135" url_photo="https://assets.laliga.com/squad/2019/t191/p208135/128x128/p208135_t191_2019_1_003_000.png" point="-1" position="Def"></player>
