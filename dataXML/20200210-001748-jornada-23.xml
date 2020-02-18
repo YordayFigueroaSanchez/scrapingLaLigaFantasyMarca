@@ -372,7 +372,7 @@
    <player name="Rodrigo Ely" player_code="p93421" url_photo="https://assets.laliga.com/squad/2019/t173/p93421/128x128/p93421_t173_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Laguardia" player_code="p49370" url_photo="https://assets.laliga.com/squad/2019/t173/p49370/128x128/p49370_t173_2019_1_003_000.png" point="4" position="Def"></player>
    <player name="Magallan" player_code="p86940" url_photo="https://assets.laliga.com/squad/2019/t173/p86940/128x128/p86940_t173_2019_1_003_000.png" point="5" position="Def"></player>
-   <player name="Fejsa" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="1" position="Cen"></player>
+   <player name="Fejsa" player_code="p_fejsa" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="1" position="Cen"></player>
    <player name="Édgar" player_code="p_edgar" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Pere Pons" player_code="p131411" url_photo="https://assets.laliga.com/squad/2019/t173/p131411/128x128/p131411_t173_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Manu García" player_code="p55378" url_photo="https://assets.laliga.com/squad/2019/t173/p55378/128x128/p55378_t173_2019_1_003_000.png" point="2" position="Cen"></player>
