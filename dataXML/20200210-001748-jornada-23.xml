@@ -112,7 +112,7 @@
    <player name="Valjent" player_code="p170116" url_photo="https://assets.laliga.com/squad/2019/t181/p170116/128x128/p170116_t181_2019_1_003_000.png" point="5" position="Def"></player>
    <player name="Raíllo" player_code="p105571" url_photo="https://assets.laliga.com/squad/2019/t181/p105571/128x128/p105571_t181_2019_1_003_000.png" point="5" position="Def"></player>
    <player name="Koutris" player_code="p_Koutris" url_photo="https://assets.laliga.com/squad/2019/t181/default/128x128/default_t181_2019_1_003_000.png" point="0" position="Def"></player>
-   <player name="Pozo" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t181/default/128x128/default_t181_2019_1_003_000.png" point="3" position="Cen"></player>
+   <player name="Pozo" player_code="p_Pozo" url_photo="https://assets.laliga.com/squad/2019/t181/default/128x128/default_t181_2019_1_003_000.png" point="3" position="Cen"></player>
    <player name="Salva Sevilla" player_code="p55354" url_photo="https://assets.laliga.com/squad/2019/t181/p55354/128x128/p55354_t181_2019_1_003_000.png" point="3" position="Cen"></player>
    <player name="Febas" player_code="p199250" url_photo="https://assets.laliga.com/squad/2019/t181/p199250/128x128/p199250_t181_2019_1_003_000.png" point="5" position="Cen"></player>
    <player name="Baba" player_code="p463170" url_photo="https://assets.laliga.com/squad/2019/t181/p463170/128x128/p463170_t181_2019_1_003_000.png" point="8" position="Cen"></player>
