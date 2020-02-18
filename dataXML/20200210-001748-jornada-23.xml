@@ -293,7 +293,7 @@
    <player name="Vrsaljko" player_code="p68353" url_photo="https://assets.laliga.com/squad/2019/t175/p68353/128x128/p68353_t175_2019_1_003_000.png" point="7" position="Def"></player>
    <player name="Savić" player_code="p65807" url_photo="https://assets.laliga.com/squad/2019/t175/p65807/128x128/p65807_t175_2019_1_003_000.png" point="9" position="Def"></player>
    <player name="Hermoso" player_code="p213431" url_photo="https://assets.laliga.com/squad/2019/t175/p213431/128x128/p213431_t175_2019_1_003_000.png" point="8" position="Def"></player>
-   <player name="Yannick Carrasco" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t175/default/128x128/default_t175_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Yannick Carrasco" player_code="p_yannickcarrasco" url_photo="https://assets.laliga.com/squad/2019/t175/default/128x128/default_t175_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Saúl" player_code="p89335" url_photo="https://assets.laliga.com/squad/2019/t175/p89335/128x128/p89335_t175_2019_1_003_000.png" point="5" position="Cen"></player>
    <player name="Koke" player_code="p77390" url_photo="https://assets.laliga.com/squad/2019/t175/p77390/128x128/p77390_t175_2019_1_003_000.png" point="10" position="Cen"></player>
    <player name="Lemar" player_code="p167449" url_photo="https://assets.laliga.com/squad/2019/t175/p167449/128x128/p167449_t175_2019_1_003_000.png" point="1" position="Cen"></player>
