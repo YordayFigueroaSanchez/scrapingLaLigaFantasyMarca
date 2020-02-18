@@ -352,7 +352,7 @@
    <player name="Pere Pons" player_code="p131411" url_photo="https://assets.laliga.com/squad/2019/t173/p131411/128x128/p131411_t173_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Manu García" player_code="p55378" url_photo="https://assets.laliga.com/squad/2019/t173/p55378/128x128/p55378_t173_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Oliver Burke" player_code="p197937" url_photo="https://assets.laliga.com/squad/2019/t173/p197937/128x128/p197937_t173_2019_1_003_000.png" point="2" position="Cen"></player>
-   <player name="Camarasa" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="6" position="Cen"></player>
+   <player name="Camarasa" player_code="p_Camarasa" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="6" position="Cen"></player>
    <player name="Joselu" player_code="p61316" url_photo="https://assets.laliga.com/squad/2019/t173/p61316/128x128/p61316_t173_2019_1_003_000.png" point="8" position="Del"></player>
    <player name="Luis Rioja" player_code="p434941" url_photo="https://assets.laliga.com/squad/2019/t173/p434941/128x128/p434941_t173_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Burgui" player_code="p163817" url_photo="https://assets.laliga.com/squad/2019/t173/p163817/128x128/p163817_t173_2019_1_003_000.png" point="0" position="Del"></player>

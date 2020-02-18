@@ -378,7 +378,7 @@
    <player name="Manu García" player_code="p55378" url_photo="https://assets.laliga.com/squad/2019/t173/p55378/128x128/p55378_t173_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Aleix Vidal" player_code="p79627" url_photo="https://assets.laliga.com/squad/2019/t173/p79627/128x128/p79627_t173_2019_1_003_000.png" point="7" position="Cen"></player>
    <player name="Oliver Burke" player_code="p197937" url_photo="https://assets.laliga.com/squad/2019/t173/p197937/128x128/p197937_t173_2019_1_003_000.png" point="13" position="Cen"></player>
-   <player name="Camarasa" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="5" position="Cen"></player>
+   <player name="Camarasa" player_code="p_Camarasa" url_photo="https://assets.laliga.com/squad/2019/t173/default/128x128/default_t173_2019_1_003_000.png" point="5" position="Cen"></player>
    <player name="Joselu" player_code="p61316" url_photo="https://assets.laliga.com/squad/2019/t173/p61316/128x128/p61316_t173_2019_1_003_000.png" point="8" position="Del"></player>
    <player name="Lucas Pérez" player_code="p155851" url_photo="https://assets.laliga.com/squad/2019/t173/p155851/128x128/p155851_t173_2019_1_003_000.png" point="8" position="Del"></player>
   </team>
