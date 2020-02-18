@@ -141,7 +141,7 @@
    <player name="Toni" player_code="p242290" url_photo="https://assets.laliga.com/squad/2019/t192/p242290/128x128/p242290_t192_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Enes Ünal" player_code="p168636" url_photo="https://assets.laliga.com/squad/2019/t192/p168636/128x128/p168636_t192_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Sandro" player_code="p108438" url_photo="https://assets.laliga.com/squad/2019/t192/p108438/128x128/p108438_t192_2019_1_003_000.png" point="6" position="Del"></player>
-   <player name="Ben Arfa" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t192/default/128x128/default_t192_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Ben Arfa" player_code="P_Ben_Arfa" url_photo="https://assets.laliga.com/squad/2019/t192/default/128x128/default_t192_2019_1_003_000.png" point="2" position="Del"></player>
   </team>
   <team name="Villarreal CF" team_code="t449" point="1" goal="1">
    <player name="Andrés Fdez." player_code="p51792" url_photo="https://assets.laliga.com/squad/2019/t449/p51792/128x128/p51792_t449_2019_1_003_000.png" point="0" position="Por"></player>
