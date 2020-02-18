@@ -238,7 +238,7 @@
    <player name="Joan Jordán" player_code="p195364" url_photo="https://assets.laliga.com/squad/2019/t179/p195364/128x128/p195364_t179_2019_1_003_000.png" point="5" position="Cen"></player>
    <player name="Gudelj" player_code="p72154" url_photo="https://assets.laliga.com/squad/2019/t179/p72154/128x128/p72154_t179_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="F. Vázquez" player_code="p100731" url_photo="https://assets.laliga.com/squad/2019/t179/p100731/128x128/p100731_t179_2019_1_003_000.png" point="3" position="Cen"></player>
-   <player name="Suso" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t179/default/128x128/default_t179_2019_1_003_000.png" point="3" position="Del"></player>
+   <player name="Suso" player_code="p_suso" url_photo="https://assets.laliga.com/squad/2019/t179/default/128x128/default_t179_2019_1_003_000.png" point="3" position="Del"></player>
    <player name="Ocampos" player_code="p121117" url_photo="https://assets.laliga.com/squad/2019/t179/p121117/128x128/p121117_t179_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Luuk de Jong" player_code="p53041" url_photo="https://assets.laliga.com/squad/2019/t179/p53041/128x128/p53041_t179_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="En-Nesyri" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t179/default/128x128/default_t179_2019_1_003_000.png" point="8" position="Del"></player>
