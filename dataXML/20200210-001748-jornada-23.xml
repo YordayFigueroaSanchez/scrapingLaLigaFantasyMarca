@@ -199,7 +199,7 @@
    <player name="Amadou" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Assalé" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Braithwaite" player_code="p68690" url_photo="https://assets.laliga.com/squad/2019/t957/p68690/128x128/p68690_t957_2019_1_003_000.png" point="1" position="Del"></player>
-   <player name="Guerrero" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Guerrero" player_code="p_Guerrero" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="1" position="Del"></player>
    <player name="Aitor Ruibal" player_code="p441303" url_photo="https://assets.laliga.com/squad/2019/t957/p441303/128x128/p441303_t957_2019_1_003_000.png" point="4" position="Del"></player>
   </team>
  </game>
