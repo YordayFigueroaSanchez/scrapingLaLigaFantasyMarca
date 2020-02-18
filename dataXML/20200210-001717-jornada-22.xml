@@ -342,7 +342,7 @@
   </team>
   <team name="D. Alavés" team_code="t173" point="1" goal="1">
    <player name="Pacheco" player_code="p91406" url_photo="https://assets.laliga.com/squad/2019/t173/p91406/128x128/p91406_t173_2019_1_003_000.png" point="4" position="Por"></player>
-   <player name="Roberto Jiménez" player_code="gk" url_photo="https://assets.laliga.com/squad/2019/t173/gk/128x128/gk_t173_2019_1_003_000.png" point="0" position="Por"></player>
+   <player name="Roberto Jiménez" player_code="p_Roberto_Jimenez" url_photo="https://assets.laliga.com/squad/2019/t173/gk/128x128/gk_t173_2019_1_003_000.png" point="0" position="Por"></player>
    <player name="Rubén Duarte" player_code="p126119" url_photo="https://assets.laliga.com/squad/2019/t173/p126119/128x128/p126119_t173_2019_1_003_000.png" point="4" position="Def"></player>
    <player name="Ximo Navarro" player_code="p90728" url_photo="https://assets.laliga.com/squad/2019/t173/p90728/128x128/p90728_t173_2019_1_003_000.png" point="7" position="Def"></player>
    <player name="Martín" player_code="p246162" url_photo="https://assets.laliga.com/squad/2019/t173/p246162/128x128/p246162_t173_2019_1_003_000.png" point="2" position="Def"></player>
