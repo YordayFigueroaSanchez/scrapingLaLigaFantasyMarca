@@ -220,7 +220,7 @@
    <player name="Pione Sisto" player_code="p142276" url_photo="https://assets.laliga.com/squad/2019/t176/p142276/128x128/p142276_t176_2019_1_003_000.png" point="10" position="Cen"></player>
    <player name="Fran Beltrán" player_code="p234511" url_photo="https://assets.laliga.com/squad/2019/t176/p234511/128x128/p234511_t176_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Gabriel Fernández" player_code="p154414" url_photo="https://assets.laliga.com/squad/2019/t176/p154414/128x128/p154414_t176_2019_1_003_000.png" point="0" position="Del"></player>
-   <player name="Smolov" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t176/default/128x128/default_t176_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Smolov" player_code="p_Smolov" url_photo="https://assets.laliga.com/squad/2019/t176/default/128x128/default_t176_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Aspas" player_code="p40270" url_photo="https://assets.laliga.com/squad/2019/t176/p40270/128x128/p40270_t176_2019_1_003_000.png" point="11" position="Del"></player>
    <player name="Santi Mina" player_code="p150360" url_photo="https://assets.laliga.com/squad/2019/t176/p150360/128x128/p150360_t176_2019_1_003_000.png" point="1" position="Del"></player>
   </team>
