@@ -196,7 +196,7 @@
    <player name="Recio" player_code="p91338" url_photo="https://assets.laliga.com/squad/2019/t957/p91338/128x128/p91338_t957_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Roque Mesa" player_code="p106899" url_photo="https://assets.laliga.com/squad/2019/t957/p106899/128x128/p106899_t957_2019_1_003_000.png" point="1" position="Cen"></player>
    <player name="Eraso" player_code="p90483" url_photo="https://assets.laliga.com/squad/2019/t957/p90483/128x128/p90483_t957_2019_1_003_000.png" point="0" position="Cen"></player>
-   <player name="Amadou" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Amadou" player_code="p_Amadou" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Assalé" player_code="p_Assale" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Braithwaite" player_code="p68690" url_photo="https://assets.laliga.com/squad/2019/t957/p68690/128x128/p68690_t957_2019_1_003_000.png" point="1" position="Del"></player>
    <player name="Guerrero" player_code="p_Guerrero" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="1" position="Del"></player>
