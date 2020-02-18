@@ -160,7 +160,7 @@
    <player name="Bacca" player_code="p111274" url_photo="https://assets.laliga.com/squad/2019/t449/p111274/128x128/p111274_t449_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="Niño" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t449/default/128x128/default_t449_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="Gerard" player_code="p93721" url_photo="https://assets.laliga.com/squad/2019/t449/p93721/128x128/p93721_t449_2019_1_003_000.png" point="8" position="Del"></player>
-   <player name="Alcácer" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t449/default/128x128/default_t449_2019_1_003_000.png" point="4" position="Del"></player>
+   <player name="Alcácer" player_code="p_Alcacer" url_photo="https://assets.laliga.com/squad/2019/t449/default/128x128/default_t449_2019_1_003_000.png" point="4" position="Del"></player>
   </team>
  </game>
  <game name_local="Levante UD" goal_local="2" goal_visitor="0" name_visitor="CD Leganés">
