@@ -349,7 +349,7 @@
    <player name="Mangala" player_code="p57112" url_photo="https://assets.laliga.com/squad/2019/t191/p57112/128x128/p57112_t191_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Thierry Correia" player_code="p222629" url_photo="https://assets.laliga.com/squad/2019/t191/p222629/128x128/p222629_t191_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Gabriel Paulista" player_code="p158074" url_photo="https://assets.laliga.com/squad/2019/t191/p158074/128x128/p158074_t191_2019_1_003_000.png" point="2" position="Def"></player>
-   <player name="Florenzi" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t191/default/128x128/default_t191_2019_1_003_000.png" point="-4" position="Def"></player>
+   <player name="Florenzi" player_code="p_florenzi" url_photo="https://assets.laliga.com/squad/2019/t191/default/128x128/default_t191_2019_1_003_000.png" point="-4" position="Def"></player>
    <player name="Diakhaby" player_code="p208135" url_photo="https://assets.laliga.com/squad/2019/t191/p208135/128x128/p208135_t191_2019_1_003_000.png" point="3" position="Def"></player>
    <player name="Gayá" player_code="p132105" url_photo="https://assets.laliga.com/squad/2019/t191/p132105/128x128/p132105_t191_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Kondogbia" player_code="p88754" url_photo="https://assets.laliga.com/squad/2019/t191/p88754/128x128/p88754_t191_2019_1_003_000.png" point="3" position="Cen"></player>
