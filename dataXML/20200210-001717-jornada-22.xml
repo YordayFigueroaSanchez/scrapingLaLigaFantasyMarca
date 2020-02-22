@@ -198,7 +198,7 @@
    <player name="Adrián López" player_code="p39498" url_photo="https://assets.laliga.com/squad/2019/t450/p39498/128x128/p39498_t450_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Marc Cardona" player_code="p244363" url_photo="https://assets.laliga.com/squad/2019/t450/p244363/128x128/p244363_t450_2019_1_003_000.png" point="2" position="Del"></player>
    <player name="Enric Gallego" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t450/default/128x128/default_t450_2019_1_003_000.png" point="2" position="Del"></player>
-   <player name="Arnáiz" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t450/default/128x128/default_t450_2019_1_003_000.png" point="2" position="Del"></player>
+   <player name="Arnáiz" player_code="p219173" url_photo="https://assets.laliga.com/squad/2019/t450/default/128x128/default_t450_2019_1_003_000.png" point="2" position="Del"></player>
   </team>
  </game>
  <game name_local="Real Madrid" goal_local="1" goal_visitor="0" name_visitor="Atlético de Madrid">
