@@ -167,7 +167,7 @@
   <team name="Levante UD" team_code="t855" point="3" goal="3">
    <player name="Koke" player_code="p182617" url_photo="https://assets.laliga.com/squad/2019/t855/p182617/128x128/p182617_t855_2019_1_003_000.png" point="0" position="Por"></player>
    <player name="Aitor Fdez." player_code="p80993" url_photo="https://assets.laliga.com/squad/2019/t855/p80993/128x128/p80993_t855_2019_1_003_000.png" point="10" position="Por"></player>
-   <player name="Bruno" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t855/default/128x128/default_t855_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Bruno" player_code="p98976" url_photo="https://assets.laliga.com/squad/2019/t855/default/128x128/default_t855_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Postigo" player_code="p90400" url_photo="https://assets.laliga.com/squad/2019/t855/p90400/128x128/p90400_t855_2019_1_003_000.png" point="11" position="Def"></player>
    <player name="Óscar Duarte" player_code="p99128" url_photo="https://assets.laliga.com/squad/2019/t855/p99128/128x128/p99128_t855_2019_1_003_000.png" point="1" position="Def"></player>
    <player name="Vezo" player_code="p116206" url_photo="https://assets.laliga.com/squad/2019/t855/p116206/128x128/p116206_t855_2019_1_003_000.png" point="7" position="Def"></player>
