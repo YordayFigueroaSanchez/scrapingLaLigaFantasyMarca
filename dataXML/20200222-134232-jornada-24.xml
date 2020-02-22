@@ -263,7 +263,7 @@
    <player name="Cazorla" player_code="p19524" url_photo="https://assets.laliga.com/squad/2019/t449/p19524/128x128/p19524_t449_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Bacca" player_code="p111274" url_photo="https://assets.laliga.com/squad/2019/t449/p111274/128x128/p111274_t449_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="Gerard" player_code="p93721" url_photo="https://assets.laliga.com/squad/2019/t449/p93721/128x128/p93721_t449_2019_1_003_000.png" point="11" position="Del"></player>
-   <player name="Alcácer" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t449/default/128x128/default_t449_2019_1_003_000.png" point="5" position="Del"></player>
+   <player name="Alcácer" player_code="p_Alcacer" url_photo="https://assets.laliga.com/squad/2019/t449/default/128x128/default_t449_2019_1_003_000.png" point="5" position="Del"></player>
   </team>
   <team name="Levante UD" team_code="t855" point="0" goal="0">
    <player name="Koke" player_code="p182617" url_photo="https://assets.laliga.com/squad/2019/t855/p182617/128x128/p182617_t855_2019_1_003_000.png" point="0" position="Por"></player>
