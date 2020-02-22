@@ -291,7 +291,7 @@
    <player name="Rony Lopes" player_code="p109653" url_photo="https://assets.laliga.com/squad/2019/t179/p109653/128x128/p109653_t179_2019_1_003_000.png" point="0" position="Del"></player>
    <player name="Ocampos" player_code="p121117" url_photo="https://assets.laliga.com/squad/2019/t179/p121117/128x128/p121117_t179_2019_1_003_000.png" point="3" position="Del"></player>
    <player name="Luuk de Jong" player_code="p53041" url_photo="https://assets.laliga.com/squad/2019/t179/p53041/128x128/p53041_t179_2019_1_003_000.png" point="11" position="Del"></player>
-   <player name="En-Nesyri" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t179/default/128x128/default_t179_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="En-Nesyri" player_code="p234991" url_photo="https://assets.laliga.com/squad/2019/t179/default/128x128/default_t179_2019_1_003_000.png" point="1" position="Del"></player>
    <player name="Nolito" player_code="p86173" url_photo="https://assets.laliga.com/squad/2019/t179/p86173/128x128/p86173_t179_2019_1_003_000.png" point="10" position="Del"></player>
   </team>
   <team name="Granada CF" team_code="t5683" point="0" goal="0">
