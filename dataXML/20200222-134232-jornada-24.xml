@@ -191,7 +191,7 @@
    <player name="Aidoo" player_code="p210171" url_photo="https://assets.laliga.com/squad/2019/t176/p210171/128x128/p210171_t176_2019_1_003_000.png" point="4" position="Def"></player>
    <player name="Olaza" player_code="p152563" url_photo="https://assets.laliga.com/squad/2019/t176/p152563/128x128/p152563_t176_2019_1_003_000.png" point="1" position="Def"></player>
    <player name="Néstor Araújo" player_code="p100868" url_photo="https://assets.laliga.com/squad/2019/t176/p100868/128x128/p100868_t176_2019_1_003_000.png" point="4" position="Def"></player>
-   <player name="Bradaric" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t176/default/128x128/default_t176_2019_1_003_000.png" point="2" position="Cen"></player>
+   <player name="Bradaric" player_code="p_Bradaric" url_photo="https://assets.laliga.com/squad/2019/t176/default/128x128/default_t176_2019_1_003_000.png" point="2" position="Cen"></player>
    <player name="Denis Suárez" player_code="p89572" url_photo="https://assets.laliga.com/squad/2019/t176/p89572/128x128/p89572_t176_2019_1_003_000.png" point="7" position="Cen"></player>
    <player name="Okay" player_code="p101394" url_photo="https://assets.laliga.com/squad/2019/t176/p101394/128x128/p101394_t176_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Rafinha" player_code="p92819" url_photo="https://assets.laliga.com/squad/2019/t176/p92819/128x128/p92819_t176_2019_1_003_000.png" point="4" position="Cen"></player>
