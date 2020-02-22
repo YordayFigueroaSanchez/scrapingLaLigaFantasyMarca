@@ -156,7 +156,7 @@
    <player name="Canales" player_code="p56448" url_photo="https://assets.laliga.com/squad/2019/t185/p56448/128x128/p56448_t185_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Guardado" player_code="p37064" url_photo="https://assets.laliga.com/squad/2019/t185/p37064/128x128/p37064_t185_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="William Carvalho" player_code="p96122" url_photo="https://assets.laliga.com/squad/2019/t185/p96122/128x128/p96122_t185_2019_1_003_000.png" point="5" position="Cen"></player>
-   <player name="Guido Rodríguez" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t185/default/128x128/default_t185_2019_1_003_000.png" point="0" position="Cen"></player>
+   <player name="Guido Rodríguez" player_code="p_Guido_Rodriguez" url_photo="https://assets.laliga.com/squad/2019/t185/default/128x128/default_t185_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Joaquín" player_code="p10316" url_photo="https://assets.laliga.com/squad/2019/t185/p10316/128x128/p10316_t185_2019_1_003_000.png" point="4" position="Cen"></player>
    <player name="Borja Iglesias" player_code="p202044" url_photo="https://assets.laliga.com/squad/2019/t185/p202044/128x128/p202044_t185_2019_1_003_000.png" point="-1" position="Del"></player>
    <player name="Loren" player_code="p432751" url_photo="https://assets.laliga.com/squad/2019/t185/p432751/128x128/p432751_t185_2019_1_003_000.png" point="1" position="Del"></player>
