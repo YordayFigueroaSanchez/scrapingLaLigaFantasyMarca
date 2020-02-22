@@ -146,7 +146,7 @@
   </team>
   <team name="R. Valladolid CF" team_code="t192" point="1" goal="1">
    <player name="Masip" player_code="p86148" url_photo="https://assets.laliga.com/squad/2019/t192/p86148/128x128/p86148_t192_2019_1_003_000.png" point="10" position="Por"></player>
-   <player name="Raúl García" player_code="praulgarcia" url_photo="https://assets.laliga.com/squad/2019/t192/praulgarcia/128x128/praulgarcia_t192_2019_1_003_000.png" point="7" position="Def"></player>
+   <player name="Raúl García" player_code="p80908" url_photo="https://assets.laliga.com/squad/2019/t192/praulgarcia/128x128/praulgarcia_t192_2019_1_003_000.png" point="7" position="Def"></player>
    <player name="Nacho" player_code="p90394" url_photo="https://assets.laliga.com/squad/2019/t192/p90394/128x128/p90394_t192_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Antoñito" player_code="p87804" url_photo="https://assets.laliga.com/squad/2019/t192/p87804/128x128/p87804_t192_2019_1_003_000.png" point="8" position="Def"></player>
    <player name="Salisu" player_code="p450527" url_photo="https://assets.laliga.com/squad/2019/t192/p450527/128x128/p450527_t192_2019_1_003_000.png" point="11" position="Def"></player>
