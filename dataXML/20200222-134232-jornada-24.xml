@@ -137,7 +137,7 @@
    <player name="Recio" player_code="p91338" url_photo="https://assets.laliga.com/squad/2019/t957/p91338/128x128/p91338_t957_2019_1_003_000.png" point="5" position="Cen"></player>
    <player name="Roque Mesa" player_code="p106899" url_photo="https://assets.laliga.com/squad/2019/t957/p106899/128x128/p106899_t957_2019_1_003_000.png" point="0" position="Cen"></player>
    <player name="Eraso" player_code="p90483" url_photo="https://assets.laliga.com/squad/2019/t957/p90483/128x128/p90483_t957_2019_1_003_000.png" point="1" position="Cen"></player>
-   <player name="Assalé" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="1" position="Del"></player>
+   <player name="Assalé" player_code="p_Assale" url_photo="https://assets.laliga.com/squad/2019/t957/default/128x128/default_t957_2019_1_003_000.png" point="1" position="Del"></player>
    <player name="Aitor Ruibal" player_code="p441303" url_photo="https://assets.laliga.com/squad/2019/t957/p441303/128x128/p441303_t957_2019_1_003_000.png" point="3" position="Del"></player>
    <player name="Guido Carrillo" player_code="p98914" url_photo="https://assets.laliga.com/squad/2019/t957/p98914/128x128/p98914_t957_2019_1_003_000.png" point="0" position="Del"></player>
   </team>
