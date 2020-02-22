@@ -63,7 +63,7 @@
   <team name="Getafe CF" team_code="t1450" point="0" goal="0">
    <player name="Chichizola" player_code="p93921" url_photo="https://assets.laliga.com/squad/2019/t1450/p93921/128x128/p93921_t1450_2019_1_003_000.png" point="0" position="Por"></player>
    <player name="David Soria" player_code="p175204" url_photo="https://assets.laliga.com/squad/2019/t1450/p175204/128x128/p175204_t1450_2019_1_003_000.png" point="3" position="Por"></player>
-   <player name="Cabaco" player_code="default" url_photo="https://assets.laliga.com/squad/2019/t1450/default/128x128/default_t1450_2019_1_003_000.png" point="0" position="Def"></player>
+   <player name="Cabaco" player_code="p169586" url_photo="https://assets.laliga.com/squad/2019/t1450/default/128x128/default_t1450_2019_1_003_000.png" point="0" position="Def"></player>
    <player name="Nyom" player_code="p67527" url_photo="https://assets.laliga.com/squad/2019/t1450/p67527/128x128/p67527_t1450_2019_1_003_000.png" point="2" position="Def"></player>
    <player name="Etxeita" player_code="p58637" url_photo="https://assets.laliga.com/squad/2019/t1450/p58637/128x128/p58637_t1450_2019_1_003_000.png" point="3" position="Def"></player>
    <player name="Mathías Olivera" player_code="p214966" url_photo="https://assets.laliga.com/squad/2019/t1450/p214966/128x128/p214966_t1450_2019_1_003_000.png" point="1" position="Def"></player>
