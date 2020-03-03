@@ -1,0 +1,340 @@
+<persons point="0" code="p_Roberto_Jimenez" position="Por" name="Roberto Jiménez"/>
+<persons point="1" code="p_Riqui_Puig" position="Cen" name="Riqui Puig"/>
+<persons point="1" code="p_Nino" position="Del" name="Niño"/>
+<persons point="7" code="p_Murillo" position="Def" name="Murillo"/>
+<persons point="0" code="p_Ismael" position="Cen" name="Ismael"/>
+<persons point="2" code="p_Guido_Rodriguez" position="Cen" name="Guido Rodríguez"/>
+<persons point="4" code="p_Embarba" position="Del" name="Embarba"/>
+<persons point="3" code="p_Deyverson" position="Del" name="Deyverson"/>
+<persons point="6" code="p_Camarasa" position="Cen" name="Camarasa"/>
+<persons point="0" code="p_Bradaric" position="Cen" name="Bradaric"/>
+<persons point="0" code="p99128" position="Def" name="Óscar Duarte"/>
+<persons point="15" code="p99005" position="Def" name="Damián"/>
+<persons point="9" code="p98961" position="Cen" name="Trigueros"/>
+<persons point="1" code="p98914" position="Del" name="Guido Carrillo"/>
+<persons point="1" code="p98851" position="Def" name="David García"/>
+<persons point="1" code="p98821" position="Def" name="Zaldua"/>
+<persons point="6" code="p96785" position="Cen" name="Óscar Plano"/>
+<persons point="5" code="p96771" position="Cen" name="Alcaraz"/>
+<persons point="2" code="p96767" position="Def" name="Foulquier"/>
+<persons point="3" code="p96093" position="Cen" name="Vukčević"/>
+<persons point="6" code="p94618" position="Por" name="Dmitrović"/>
+<persons point="1" code="p94273" position="Del" name="Ante Budimir"/>
+<persons point="0" code="p93921" position="Por" name="Chichizola"/>
+<persons point="1" code="p93721" position="Del" name="Gerard"/>
+<persons point="0" code="p93338" position="Del" name="Vadillo"/>
+<persons point="4" code="p92819" position="Cen" name="Rafinha"/>
+<persons point="0" code="p92187" position="Del" name="Abdón Prats"/>
+<persons point="4" code="p91406" position="Por" name="Pacheco"/>
+<persons point="4" code="p91393" position="Def" name="Bigas"/>
+<persons point="3" code="p91338" position="Cen" name="Recio"/>
+<persons point="7" code="p90728" position="Def" name="Ximo Navarro"/>
+<persons point="4" code="p90483" position="Cen" name="Eraso"/>
+<persons point="1" code="p90407" position="Cen" name="Timor"/>
+<persons point="6" code="p90402" position="Cen" name="Roberto Torres"/>
+<persons point="6" code="p90400" position="Def" name="Postigo"/>
+<persons point="3" code="p90318" position="Def" name="Iñigo Martínez"/>
+<persons point="10" code="p90152" position="Def" name="Varane"/>
+<persons point="10" code="p89850" position="Del" name="Sergi Guardiola"/>
+<persons point="0" code="p89572" position="Cen" name="Denis Suárez"/>
+<persons point="9" code="p89399" position="Def" name="Aridane"/>
+<persons point="3" code="p89335" position="Cen" name="Saúl"/>
+<persons point="2" code="p89334" position="Def" name="Miramón"/>
+<persons point="0" code="p89292" position="Por" name="Herrerín"/>
+<persons point="3" code="p88952" position="Cen" name="Campaña"/>
+<persons point="0" code="p88754" position="Cen" name="Kondogbia"/>
+<persons point="0" code="p88580" position="Def" name="Umtiti"/>
+<persons point="3" code="p88550" position="Del" name="Portu"/>
+<persons point="7" code="p88483" position="Def" name="Carvajal"/>
+<persons point="2" code="p88482" position="Del" name="Morata"/>
+<persons point="8" code="p87815" position="Def" name="Moyano"/>
+<persons point="0" code="p87804" position="Def" name="Antoñito"/>
+<persons point="6" code="p87661" position="Def" name="Germán"/>
+<persons point="0" code="p87499" position="Def" name="Paulo Oliveira"/>
+<persons point="2" code="p87026" position="Def" name="Arbilla"/>
+<persons point="4" code="p86940" position="Def" name="Magallan"/>
+<persons point="3" code="p86813" position="Def" name="Mandi"/>
+<persons point="5" code="p86399" position="Cen" name="Vitolo"/>
+<persons point="0" code="p86349" position="Del" name="Charles"/>
+<persons point="3" code="p86173" position="Del" name="Nolito"/>
+<persons point="1" code="p86169" position="Cen" name="Tello"/>
+<persons point="9" code="p86168" position="Cen" name="Rochina"/>
+<persons point="3" code="p86157" position="Def" name="Sergi Roberto"/>
+<persons point="4" code="p86151" position="Def" name="Sergi Gómez"/>
+<persons point="9" code="p86148" position="Por" name="Masip"/>
+<persons point="3" code="p84471" position="Cen" name="Ibai"/>
+<persons point="0" code="p84182" position="Por" name="Areola"/>
+<persons point="5" code="p81352" position="Por" name="Oblak"/>
+<persons point="7" code="p81138" position="Def" name="Bartra"/>
+<persons point="6" code="p80993" position="Por" name="Aitor Fdez."/>
+<persons point="7" code="p80954" position="Del" name="Rodrigo"/>
+<persons point="7" code="p80908" position="Def" name="Raúl García"/>
+<persons point="2" code="p80906" position="Cen" name="Dani Rodríguez"/>
+<persons point="4" code="p80791" position="Del" name="Sergi Enrich"/>
+<persons point="2" code="p80209" position="Cen" name="Isco"/>
+<persons point="3" code="p78874" position="Cen" name="Iñigo Pérez"/>
+<persons point="1" code="p78333" position="Def" name="Javi López"/>
+<persons point="6" code="p78315" position="Por" name="Joel Robles"/>
+<persons point="7" code="p77318" position="Por" name="Ter Stegen"/>
+<persons point="1" code="p77039" position="Def" name="Toño"/>
+<persons point="4" code="p76650" position="Del" name="Griezmann"/>
+<persons point="3" code="p76610" position="Def" name="Mario"/>
+<persons point="2" code="p76555" position="Del" name="Jorge Molina"/>
+<persons point="0" code="p76510" position="Por" name="Yoel"/>
+<persons point="0" code="p76508" position="Def" name="Hugo Mallo"/>
+<persons point="1" code="p76012" position="Cen" name="Muniain"/>
+<persons point="1" code="p73314" position="Del" name="Willian José"/>
+<persons point="0" code="p72154" position="Cen" name="Gudelj"/>
+<persons point="5" code="p68690" position="Del" name="Braithwaite"/>
+<persons point="1" code="p68353" position="Def" name="Vrsaljko"/>
+<persons point="6" code="p67527" position="Def" name="Nyom"/>
+<persons point="4" code="p65807" position="Def" name="Savić"/>
+<persons point="0" code="p64662" position="Def" name="Cabrera"/>
+<persons point="0" code="p62991" position="Def" name="Escudero"/>
+<persons point="8" code="p61316" position="Del" name="Joselu"/>
+<persons point="6" code="p61256" position="Cen" name="Casemiro"/>
+<persons point="9" code="p60772" position="Por" name="Courtois"/>
+<persons point="2" code="p60757" position="Del" name="Lago Junior"/>
+<persons point="0" code="p60025" position="Cen" name="James"/>
+<persons point="0" code="p59981" position="Por" name="Adán"/>
+<persons point="4" code="p59963" position="Cen" name="Gonalons"/>
+<persons point="0" code="p59945" position="Cen" name="Rubén Pérez"/>
+<persons point="0" code="p59790" position="Def" name="Dídac"/>
+<persons point="9" code="p59140" position="Def" name="José A. Cote"/>
+<persons point="7" code="p58876" position="Cen" name="Michel"/>
+<persons point="7" code="p58819" position="Def" name="Kiko Olivas"/>
+<persons point="9" code="p58637" position="Def" name="Etxeita"/>
+<persons point="7" code="p56864" position="Cen" name="Coquelin"/>
+<persons point="5" code="p56624" position="Def" name="Wass"/>
+<persons point="12" code="p56448" position="Cen" name="Canales"/>
+<persons point="0" code="p56419" position="Del" name="Ángel"/>
+<persons point="0" code="p56271" position="Del" name="Quique Gonzalez"/>
+<persons point="1" code="p56249" position="Cen" name="Iturraspe"/>
+<persons point="0" code="p56161" position="Def" name="Ismail"/>
+<persons point="2" code="p55378" position="Cen" name="Manu García"/>
+<persons point="3" code="p55354" position="Cen" name="Salva Sevilla"/>
+<persons point="6" code="p55315" position="Def" name="Victor Díaz"/>
+<persons point="0" code="p55268" position="Def" name="Coke"/>
+<persons point="0" code="p54794" position="Def" name="Roncaglia"/>
+<persons point="4" code="p54513" position="Cen" name="Iborra"/>
+<persons point="4" code="p54104" position="Cen" name="Busquets"/>
+<persons point="0" code="p53142" position="Def" name="Sidnei"/>
+<persons point="3" code="p53041" position="Del" name="Luuk de Jong"/>
+<persons point="4" code="p52538" position="Cen" name="Fernando"/>
+<persons point="4" code="p52356" position="Def" name="Jordi Alba"/>
+<persons point="6" code="p51952" position="Cen" name="Parejo"/>
+<persons point="5" code="p51945" position="Por" name="Vaclík"/>
+<persons point="0" code="p51792" position="Por" name="Andrés Fdez."/>
+<persons point="3" code="p49370" position="Def" name="Laguardia"/>
+<persons point="6" code="p49309" position="Cen" name="Banega"/>
+<persons point="0" code="p49267" position="Cen" name="Víctor Sánchez"/>
+<persons point="8" code="p48854" position="Cen" name="Orellana"/>
+<persons point="1" code="p48832" position="Def" name="Rosales"/>
+<persons point="7" code="p48772" position="Por" name="Asenjo"/>
+<persons point="4" code="p477463" position="Cen" name="Jon Moncayola"/>
+<persons point="5" code="p472148" position="Def" name="Carlos Neva"/>
+<persons point="0" code="p472145" position="Def" name="Aihen Muñoz"/>
+<persons point="2" code="p471138" position="Cen" name="Barrenetxea"/>
+<persons point="1" code="p469402" position="Cen" name="Edgar González"/>
+<persons point="16" code="p465607" position="Del" name="Ansu Fati"/>
+<persons point="4" code="p463170" position="Cen" name="Baba"/>
+<persons point="2" code="p454317" position="Del" name="Enric Gallego"/>
+<persons point="0" code="p451358" position="Cen" name="Lee Kang-In"/>
+<persons point="9" code="p450527" position="Def" name="Salisu"/>
+<persons point="2" code="p44989" position="Cen" name="Kroos"/>
+<persons point="0" code="p446990" position="Def" name="Adrià Pedrosa"/>
+<persons point="0" code="p443967" position="Def" name="Júnior"/>
+<persons point="1" code="p443761" position="Cen" name="Waldo"/>
+<persons point="2" code="p441303" position="Del" name="Aitor Ruibal"/>
+<persons point="0" code="p436234" position="Cen" name="Bryan Gil"/>
+<persons point="0" code="p435090" position="Por" name="Dani Martín"/>
+<persons point="2" code="p434941" position="Del" name="Luis Rioja"/>
+<persons point="2" code="p432751" position="Del" name="Loren"/>
+<persons point="1" code="p431644" position="Cen" name="Ander Guevara"/>
+<persons point="0" code="p42869" position="Cen" name="Marc Pedraza"/>
+<persons point="2" code="p42839" position="Cen" name="Pedro León"/>
+<persons point="1" code="p42779" position="Del" name="Gameiro"/>
+<persons point="0" code="p42670" position="Def" name="Yuri"/>
+<persons point="4" code="p420909" position="Cen" name="Edu Expósito"/>
+<persons point="0" code="p40559" position="Por" name="Fabricio"/>
+<persons point="7" code="p40270" position="Del" name="Aspas"/>
+<persons point="0" code="p39563" position="Def" name="Marcelo"/>
+<persons point="2" code="p39498" position="Del" name="Adrián López"/>
+<persons point="0" code="p38519" position="Cen" name="Fran Mérida"/>
+<persons point="3" code="p38411" position="Def" name="Monreal"/>
+<persons point="0" code="p38400" position="Por" name="Sergio Álvarez"/>
+<persons point="6" code="p37055" position="Cen" name="Modrić"/>
+<persons point="2" code="p34703" position="Cen" name="Rakitić"/>
+<persons point="7" code="p32298" position="Por" name="Manuel Reina"/>
+<persons point="2" code="p28525" position="Def" name="Garay"/>
+<persons point="5" code="p27672" position="Cen" name="Diop"/>
+<persons point="5" code="p246477" position="Def" name="Lumor"/>
+<persons point="5" code="p246333" position="Del" name="Vinícius Jr."/>
+<persons point="2" code="p246162" position="Def" name="Martín"/>
+<persons point="1" code="p244716" position="Del" name="Cucho Hernández"/>
+<persons point="2" code="p244363" position="Del" name="Marc Cardona"/>
+<persons point="1" code="p243718" position="Cen" name="Melendo"/>
+<persons point="0" code="p242830" position="Def" name="Unai Núñez"/>
+<persons point="6" code="p242290" position="Cen" name="Toni"/>
+<persons point="0" code="p242260" position="Del" name="Gaizka Larrazabal"/>
+<persons point="0" code="p241869" position="Def" name="Calero"/>
+<persons point="5" code="p241157" position="Def" name="Emerson"/>
+<persons point="2" code="p234991" position="Del" name="En-Nesyri"/>
+<persons point="2" code="p234548" position="Cen" name="Pozo"/>
+<persons point="5" code="p234511" position="Cen" name="Fran Beltrán"/>
+<persons point="5" code="p233420" position="Def" name="Lodi"/>
+<persons point="0" code="p231187" position="Def" name="J.A. Martínez"/>
+<persons point="2" code="p230598" position="Def" name="Nacho Vidal"/>
+<persons point="6" code="p226541" position="Cen" name="Yangel Herrera"/>
+<persons point="0" code="p225463" position="Cen" name="Amath"/>
+<persons point="3" code="p224919" position="Def" name="Le Normand"/>
+<persons point="12" code="p224860" position="Cen" name="Soler"/>
+<persons point="7" code="p224444" position="Cen" name="Ferrán Torres"/>
+<persons point="0" code="p224389" position="Cen" name="Diego Lainez"/>
+<persons point="10" code="p223757" position="Cen" name="Óscar Rodríguez"/>
+<persons point="6" code="p223255" position="Cen" name="Fede Valverde"/>
+<persons point="3" code="p222874" position="Def" name="Awaziem"/>
+<persons point="5" code="p220325" position="Def" name="Koundé"/>
+<persons point="0" code="p219855" position="Cen" name="Ontiveros"/>
+<persons point="3" code="p219718" position="Def" name="Sastre"/>
+<persons point="3" code="p219271" position="Del" name="Kubo"/>
+<persons point="2" code="p219173" position="Del" name="Arnáiz"/>
+<persons point="7" code="p219168" position="Del" name="Isak"/>
+<persons point="0" code="p219000" position="Del" name="Oyarzabal"/>
+<persons point="2" code="p218774" position="Cen" name="Eteki"/>
+<persons point="0" code="p218449" position="Def" name="Militão"/>
+<persons point="2" code="p218328" position="Cen" name="Samu Chukwueze"/>
+<persons point="3" code="p216475" position="Cen" name="Zubeldia"/>
+<persons point="3" code="p215206" position="Del" name="Maxi Gómez"/>
+<persons point="8" code="p214966" position="Def" name="Mathías Olivera"/>
+<persons point="0" code="p213431" position="Def" name="Hermoso"/>
+<persons point="2" code="p212770" position="Del" name="Villalibre"/>
+<persons point="2" code="p212769" position="Por" name="Unai Simón"/>
+<persons point="2" code="p210424" position="Del" name="Matias Vargas"/>
+<persons point="0" code="p210341" position="Por" name="Iñaki Peña"/>
+<persons point="7" code="p210171" position="Def" name="Aidoo"/>
+<persons point="6" code="p209712" position="Cen" name="De Jong"/>
+<persons point="0" code="p208765" position="Por" name="Juan Pérez"/>
+<persons point="0" code="p208639" position="Del" name="Ivan Saponjic"/>
+<persons point="3" code="p208135" position="Def" name="Diakhaby"/>
+<persons point="13" code="p206255" position="Def" name="Mendy"/>
+<persons point="2" code="p204214" position="Def" name="Estupiñán"/>
+<persons point="1" code="p204043" position="Cen" name="Arthur"/>
+<persons point="-1" code="p20399" position="Def" name="Barragán"/>
+<persons point="2" code="p203325" position="Cen" name="Anguissa"/>
+<persons point="3" code="p202044" position="Del" name="Borja Iglesias"/>
+<persons point="4" code="p201179" position="Cen" name="Sangalli"/>
+<persons point="1" code="p200957" position="Def" name="Aritz"/>
+<persons point="5" code="p200599" position="Def" name="Domingos Duarte"/>
+<persons point="7" code="p200402" position="Def" name="N. Semedo"/>
+<persons point="10" code="p19927" position="Del" name="Benzema"/>
+<persons point="0" code="p199259" position="Def" name="Javi Sánchez"/>
+<persons point="0" code="p199250" position="Cen" name="Febas"/>
+<persons point="2" code="p199249" position="Def" name="Reguilón"/>
+<persons point="2" code="p199248" position="Del" name="Borja Mayoral"/>
+<persons point="3" code="p199244" position="Def" name="Tejero"/>
+<persons point="6" code="p198499" position="Cen" name="Maksimovic"/>
+<persons point="2" code="p197937" position="Cen" name="Oliver Burke"/>
+<persons point="1" code="p197334" position="Del" name="Williams"/>
+<persons point="0" code="p197326" position="Cen" name="Vesga"/>
+<persons point="2" code="p197319" position="Def" name="Yeray"/>
+<persons point="3" code="p197316" position="Por" name="Remiro"/>
+<persons point="-1" code="p197314" position="Def" name="Lekue"/>
+<persons point="2" code="p196739" position="Cen" name="Bardhi"/>
+<persons point="2" code="p195457" position="Cen" name="Melero"/>
+<persons point="3" code="p195364" position="Cen" name="Joan Jordán"/>
+<persons point="12" code="p19524" position="Cen" name="Cazorla"/>
+<persons point="2" code="p19484" position="Def" name="Xisco Campos"/>
+<persons point="6" code="p192364" position="Cen" name="Marcos Llorente"/>
+<persons point="17" code="p19054" position="Del" name="Messi"/>
+<persons point="0" code="p185533" position="Del" name="Jović"/>
+<persons point="0" code="p18498" position="Cen" name="Raúl García"/>
+<persons point="3" code="p184029" position="Cen" name="Ødegaard"/>
+<persons point="1" code="p183462" position="Cen" name="Unai López"/>
+<persons point="3" code="p18221" position="Def" name="Piqué"/>
+<persons point="5" code="p18003" position="Def" name="Albiol"/>
+<persons point="4" code="p179271" position="Cen" name="Aleñá"/>
+<persons point="8" code="p179268" position="Cen" name="Cucurella"/>
+<persons point="2" code="p17926" position="Del" name="Soldado"/>
+<persons point="3" code="p178874" position="Por" name="Soriano"/>
+<persons point="11" code="p17861" position="Def" name="Sergio Ramos"/>
+<persons point="1" code="p178092" position="Cen" name="San Emeterio"/>
+<persons point="4" code="p17740" position="Def" name="Jesús Navas"/>
+<persons point="0" code="p176278" position="Por" name="Aarón Escandell"/>
+<persons point="12" code="p176189" position="Del" name="Carlos Fernández"/>
+<persons point="8" code="p175204" position="Por" name="David Soria"/>
+<persons point="5" code="p171222" position="Cen" name="Arambarri"/>
+<persons point="4" code="p171101" position="Def" name="Lenglet"/>
+<persons point="3" code="p170116" position="Def" name="Valjent"/>
+<persons point="5" code="p169873" position="Def" name="Esteban Burgos"/>
+<persons point="0" code="p169201" position="Def" name="Chema"/>
+<persons point="4" code="p169007" position="Cen" name="Darder"/>
+<persons point="9" code="p168636" position="Del" name="Enes Ünal"/>
+<persons point="3" code="p168390" position="Del" name="Rober Ibañez"/>
+<persons point="6" code="p168287" position="Del" name="Calleri"/>
+<persons point="1" code="p167767" position="Cen" name="Kenedy"/>
+<persons point="4" code="p167449" position="Cen" name="Lemar"/>
+<persons point="3" code="p167199" position="Cen" name="Thomas"/>
+<persons point="9" code="p166552" position="Del" name="Fekir"/>
+<persons point="2" code="p165375" position="Cen" name="Morales"/>
+<persons point="0" code="p163817" position="Del" name="Burgui"/>
+<persons point="0" code="p163711" position="Def" name="Unai García"/>
+<persons point="3" code="p160607" position="Del" name="Hernâni"/>
+<persons point="2" code="p16021" position="Por" name="Diego López"/>
+<persons point="7" code="p158074" position="Def" name="Gabriel Paulista"/>
+<persons point="2" code="p156301" position="Del" name="Antonio Puertas"/>
+<persons point="2" code="p156223" position="Del" name="Correa"/>
+<persons point="2" code="p154976" position="Cen" name="Januzaj"/>
+<persons point="2" code="p154414" position="Del" name="Gabriel Fernández"/>
+<persons point="5" code="p152563" position="Def" name="Olaza"/>
+<persons point="2" code="p151978" position="Cen" name="Cristóforo"/>
+<persons point="2" code="p150360" position="Del" name="Santi Mina"/>
+<persons point="10" code="p149838" position="Def" name="Djené"/>
+<persons point="2" code="p14464" position="Del" name="Aduriz"/>
+<persons point="2" code="p143622" position="Cen" name="Hervías"/>
+<persons point="2" code="p142276" position="Cen" name="Pione Sisto"/>
+<persons point="2" code="p140266" position="Def" name="Capa"/>
+<persons point="3" code="p140264" position="Cen" name="Dani García"/>
+<persons point="2" code="p138039" position="Por" name="S. Herrera"/>
+<persons point="10" code="p132105" position="Def" name="Gayá"/>
+<persons point="2" code="p131411" position="Cen" name="Pere Pons"/>
+<persons point="2" code="p130026" position="Del" name="Rubén García"/>
+<persons point="3" code="p126510" position="Cen" name="Pablo de Blasis"/>
+<persons point="14" code="p126290" position="Def" name="Rubén Peña"/>
+<persons point="4" code="p126119" position="Def" name="Rubén Duarte"/>
+<persons point="2" code="p125945" position="Cen" name="Azeez"/>
+<persons point="4" code="p124097" position="Por" name="Rui Silva"/>
+<persons point="4" code="p121221" position="Def" name="Funes Mori"/>
+<persons point="0" code="p121170" position="Por" name="Andrés Prieto"/>
+<persons point="10" code="p121117" position="Del" name="Ocampos"/>
+<persons point="11" code="p119403" position="Del" name="De Tomás"/>
+<persons point="8" code="p116732" position="Por" name="Jaume Domenech"/>
+<persons point="2" code="p116730" position="Del" name="Wu Lei"/>
+<persons point="5" code="p116626" position="Def" name="Kévin Rodrigues"/>
+<persons point="6" code="p116404" position="Def" name="Felipe"/>
+<persons point="2" code="p116206" position="Def" name="Vezo"/>
+<persons point="5" code="p116132" position="Def" name="Jonathan Silva"/>
+<persons point="0" code="p112994" position="Del" name="Sobrino"/>
+<persons point="14" code="p112991" position="Def" name="Omeruo"/>
+<persons point="4" code="p112540" position="Def" name="Bustinza"/>
+<persons point="2" code="p11129" position="Def" name="David López"/>
+<persons point="0" code="p111274" position="Del" name="Bacca"/>
+<persons point="11" code="p111133" position="Del" name="Darwin Machis"/>
+<persons point="2" code="p109702" position="Del" name="Roger"/>
+<persons point="0" code="p109653" position="Del" name="Rony Lopes"/>
+<persons point="10" code="p109270" position="Del" name="Mata"/>
+<persons point="3" code="p109243" position="Cen" name="Moi Gómez"/>
+<persons point="0" code="p108438" position="Del" name="Sandro"/>
+<persons point="0" code="p108145" position="Def" name="Clerc"/>
+<persons point="2" code="p107807" position="Def" name="Kevin Vázquez"/>
+<persons point="3" code="p107593" position="Cen" name="Lucas Vázquez"/>
+<persons point="5" code="p106899" position="Cen" name="Roque Mesa"/>
+<persons point="6" code="p106539" position="Por" name="Rubén Blanco"/>
+<persons point="6" code="p106468" position="Def" name="Álex Moreno"/>
+<persons point="2" code="p105571" position="Def" name="Raíllo"/>
+<persons point="7" code="p103263" position="Cen" name="Inui"/>
+<persons point="3" code="p10316" position="Cen" name="Joaquín"/>
+<persons point="6" code="p101394" position="Cen" name="Okay"/>
+<persons point="7" code="p100868" position="Def" name="Néstor Araújo"/>
+<persons point="1" code="p100731" position="Cen" name="F. Vázquez"/>
+<persons point="-1" code="p100692" position="Def" name="Naldo"/>
