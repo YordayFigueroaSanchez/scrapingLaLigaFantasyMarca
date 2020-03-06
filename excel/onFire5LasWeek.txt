@@ -1,0 +1,425 @@
+<persons point="3" code="p_YannickCarrasco" name="Yannick Carrasco"/>
+<persons point="3" code="p_VictorGomez" name="Víctor Gómez"/>
+<persons point="6" code="p_Vallejo" name="Vallejo"/>
+<persons point="28" code="p_Suso" name="Suso"/>
+<persons point="14" code="p_Smolov" name="Smolov"/>
+<persons point="0" code="p_Roberto_Jimenez" name="Roberto Jiménez"/>
+<persons point="1" code="p_Riqui_Puig" name="Riqui Puig"/>
+<persons point="1" code="p_Nino" name="Niño"/>
+<persons point="30" code="p_Murillo" name="Murillo"/>
+<persons point="10" code="p_Koutris" name="Koutris"/>
+<persons point="0" code="p_Ismael" name="Ismael"/>
+<persons point="4" code="p_Guido_Rodriguez" name="Guido Rodríguez"/>
+<persons point="4" code="p_Guerrero" name="Guerrero"/>
+<persons point="-4" code="p_Florenzi" name="Florenzi"/>
+<persons point="10" code="p_Fejsa" name="Fejsa"/>
+<persons point="7" code="p_Etebo" name="Etebo"/>
+<persons point="29" code="p_Embarba" name="Embarba"/>
+<persons point="11" code="p_Edgar" name="Édgar"/>
+<persons point="5" code="p_Deyverson" name="Deyverson"/>
+<persons point="0" code="p_Chema" name="Chema"/>
+<persons point="17" code="p_Camarasa" name="Camarasa"/>
+<persons point="2" code="p_Bradaric" name="Bradaric"/>
+<persons point="5" code="p_Assale" name="Assalé"/>
+<persons point="0" code="p_Amadou" name="Amadou"/>
+<persons point="19" code="p_Alcacer" name="Alcácer"/>
+<persons point="1" code="p99128" name="Óscar Duarte"/>
+<persons point="28" code="p99005" name="Damián"/>
+<persons point="13" code="p98976" name="Bruno"/>
+<persons point="26" code="p98961" name="Trigueros"/>
+<persons point="11" code="p98914" name="Guido Carrillo"/>
+<persons point="5" code="p98851" name="David García"/>
+<persons point="26" code="p98821" name="Zaldua"/>
+<persons point="22" code="p96785" name="Óscar Plano"/>
+<persons point="28" code="p96771" name="Alcaraz"/>
+<persons point="33" code="p96767" name="Foulquier"/>
+<persons point="12" code="p96122" name="William Carvalho"/>
+<persons point="20" code="p96093" name="Vukčević"/>
+<persons point="11" code="p94618" name="Dmitrović"/>
+<persons point="17" code="p94273" name="Ante Budimir"/>
+<persons point="0" code="p93921" name="Chichizola"/>
+<persons point="25" code="p93721" name="Gerard"/>
+<persons point="15" code="p93421" name="Rodrigo Ely"/>
+<persons point="12" code="p93338" name="Vadillo"/>
+<persons point="14" code="p93335" name="Fede Vico"/>
+<persons point="32" code="p92819" name="Rafinha"/>
+<persons point="4" code="p92187" name="Abdón Prats"/>
+<persons point="29" code="p91406" name="Pacheco"/>
+<persons point="15" code="p91393" name="Bigas"/>
+<persons point="14" code="p91338" name="Recio"/>
+<persons point="21" code="p90728" name="Ximo Navarro"/>
+<persons point="11" code="p90483" name="Eraso"/>
+<persons point="3" code="p90407" name="Timor"/>
+<persons point="25" code="p90402" name="Roberto Torres"/>
+<persons point="31" code="p90400" name="Postigo"/>
+<persons point="0" code="p90394" name="Nacho"/>
+<persons point="19" code="p90318" name="Iñigo Martínez"/>
+<persons point="30" code="p90152" name="Varane"/>
+<persons point="28" code="p89850" name="Sergi Guardiola"/>
+<persons point="0" code="p89747" name="Feddal"/>
+<persons point="11" code="p89572" name="Denis Suárez"/>
+<persons point="28" code="p89399" name="Aridane"/>
+<persons point="25" code="p89335" name="Saúl"/>
+<persons point="19" code="p89334" name="Miramón"/>
+<persons point="0" code="p89292" name="Herrerín"/>
+<persons point="23" code="p88952" name="Campaña"/>
+<persons point="22" code="p88754" name="Kondogbia"/>
+<persons point="10" code="p88580" name="Umtiti"/>
+<persons point="10" code="p88550" name="Portu"/>
+<persons point="8" code="p88489" name="Cheryshev"/>
+<persons point="29" code="p88483" name="Carvajal"/>
+<persons point="8" code="p88482" name="Morata"/>
+<persons point="18" code="p87815" name="Moyano"/>
+<persons point="1" code="p87804" name="Antoñito"/>
+<persons point="20" code="p87661" name="Germán"/>
+<persons point="9" code="p87499" name="Paulo Oliveira"/>
+<persons point="10" code="p87026" name="Arbilla"/>
+<persons point="13" code="p86940" name="Magallan"/>
+<persons point="15" code="p86813" name="Mandi"/>
+<persons point="3" code="p86527" name="Ferreyra"/>
+<persons point="17" code="p86399" name="Vitolo"/>
+<persons point="12" code="p86349" name="Charles"/>
+<persons point="5" code="p86173" name="Nolito"/>
+<persons point="7" code="p86169" name="Tello"/>
+<persons point="27" code="p86168" name="Rochina"/>
+<persons point="13" code="p86157" name="Sergi Roberto"/>
+<persons point="11" code="p86151" name="Sergi Gómez"/>
+<persons point="24" code="p86148" name="Masip"/>
+<persons point="0" code="p85659" name="Pablo Chavarría"/>
+<persons point="12" code="p84700" name="Brasanac"/>
+<persons point="9" code="p84471" name="Ibai"/>
+<persons point="0" code="p84182" name="Areola"/>
+<persons point="0" code="p83578" name="Sergio Álvarez"/>
+<persons point="3" code="p82418" name="Sergio León"/>
+<persons point="26" code="p81352" name="Oblak"/>
+<persons point="19" code="p81138" name="Bartra"/>
+<persons point="44" code="p80993" name="Aitor Fdez."/>
+<persons point="7" code="p80954" name="Rodrigo"/>
+<persons point="20" code="p80908" name="Raúl García"/>
+<persons point="20" code="p80906" name="Dani Rodríguez"/>
+<persons point="19" code="p80791" name="Sergi Enrich"/>
+<persons point="27" code="p80209" name="Isco"/>
+<persons point="23" code="p79627" name="Aleix Vidal"/>
+<persons point="10" code="p78874" name="Iñigo Pérez"/>
+<persons point="17" code="p78333" name="Javi López"/>
+<persons point="21" code="p78315" name="Joel Robles"/>
+<persons point="7" code="p77794" name="Trippier"/>
+<persons point="30" code="p77390" name="Koke"/>
+<persons point="28" code="p77318" name="Ter Stegen"/>
+<persons point="21" code="p77039" name="Toño"/>
+<persons point="24" code="p76650" name="Griezmann"/>
+<persons point="10" code="p76610" name="Mario"/>
+<persons point="18" code="p76555" name="Jorge Molina"/>
+<persons point="10" code="p76510" name="Yoel"/>
+<persons point="16" code="p76508" name="Hugo Mallo"/>
+<persons point="14" code="p76012" name="Muniain"/>
+<persons point="6" code="p73314" name="Willian José"/>
+<persons point="4" code="p72162" name="Cillessen"/>
+<persons point="12" code="p72154" name="Gudelj"/>
+<persons point="2" code="p71679" name="Rubén Martínez"/>
+<persons point="0" code="p69752" name="Neto"/>
+<persons point="14" code="p68690" name="Braithwaite"/>
+<persons point="16" code="p68353" name="Vrsaljko"/>
+<persons point="13" code="p67527" name="Nyom"/>
+<persons point="22" code="p65807" name="Savić"/>
+<persons point="16" code="p64662" name="Cabrera"/>
+<persons point="2" code="p62991" name="Escudero"/>
+<persons point="1" code="p61597" name="Kike García"/>
+<persons point="20" code="p61316" name="Joselu"/>
+<persons point="30" code="p61256" name="Casemiro"/>
+<persons point="33" code="p60772" name="Courtois"/>
+<persons point="7" code="p60757" name="Lago Junior"/>
+<persons point="0" code="p60025" name="James"/>
+<persons point="0" code="p59981" name="Adán"/>
+<persons point="17" code="p59963" name="Gonalons"/>
+<persons point="11" code="p59945" name="Rubén Pérez"/>
+<persons point="12" code="p59790" name="Dídac"/>
+<persons point="19" code="p59140" name="José A. Cote"/>
+<persons point="15" code="p58876" name="Michel"/>
+<persons point="25" code="p58819" name="Kiko Olivas"/>
+<persons point="0" code="p58792" name="Jaume Costa"/>
+<persons point="24" code="p58637" name="Etxeita"/>
+<persons point="-1" code="p57112" name="Mangala"/>
+<persons point="15" code="p56916" name="Oier"/>
+<persons point="7" code="p56864" name="Coquelin"/>
+<persons point="1" code="p56680" name="Balenziaga"/>
+<persons point="12" code="p56624" name="Wass"/>
+<persons point="40" code="p56448" name="Canales"/>
+<persons point="16" code="p56419" name="Ángel"/>
+<persons point="0" code="p56271" name="Quique Gonzalez"/>
+<persons point="6" code="p56249" name="Iturraspe"/>
+<persons point="11" code="p56161" name="Ismail"/>
+<persons point="13" code="p55378" name="Manu García"/>
+<persons point="14" code="p55354" name="Salva Sevilla"/>
+<persons point="19" code="p55317" name="Bernardo"/>
+<persons point="17" code="p55315" name="Victor Díaz"/>
+<persons point="0" code="p55268" name="Coke"/>
+<persons point="10" code="p54794" name="Roncaglia"/>
+<persons point="20" code="p54513" name="Iborra"/>
+<persons point="28" code="p54104" name="Busquets"/>
+<persons point="2" code="p53142" name="Sidnei"/>
+<persons point="13" code="p53041" name="Luuk de Jong"/>
+<persons point="11" code="p53020" name="Siovas"/>
+<persons point="29" code="p52538" name="Fernando"/>
+<persons point="10" code="p52356" name="Jordi Alba"/>
+<persons point="31" code="p51952" name="Parejo"/>
+<persons point="13" code="p51945" name="Vaclík"/>
+<persons point="0" code="p51792" name="Andrés Fdez."/>
+<persons point="17" code="p49370" name="Laguardia"/>
+<persons point="8" code="p49309" name="Banega"/>
+<persons point="2" code="p49267" name="Víctor Sánchez"/>
+<persons point="32" code="p48854" name="Orellana"/>
+<persons point="0" code="p48832" name="Rosales"/>
+<persons point="29" code="p48772" name="Asenjo"/>
+<persons point="5" code="p477463" name="Jon Moncayola"/>
+<persons point="16" code="p472148" name="Carlos Neva"/>
+<persons point="3" code="p472145" name="Aihen Muñoz"/>
+<persons point="5" code="p471138" name="Barrenetxea"/>
+<persons point="6" code="p469402" name="Edgar González"/>
+<persons point="19" code="p465607" name="Ansu Fati"/>
+<persons point="26" code="p463170" name="Baba"/>
+<persons point="0" code="p455197" name="Gámez"/>
+<persons point="7" code="p454317" name="Enric Gallego"/>
+<persons point="4" code="p451358" name="Lee Kang-In"/>
+<persons point="31" code="p450527" name="Salisu"/>
+<persons point="24" code="p44989" name="Kroos"/>
+<persons point="3" code="p446990" name="Adrià Pedrosa"/>
+<persons point="11" code="p443967" name="Júnior"/>
+<persons point="2" code="p443761" name="Waldo"/>
+<persons point="12" code="p441303" name="Aitor Ruibal"/>
+<persons point="2" code="p441164" name="Pedro Porro"/>
+<persons point="3" code="p439772" name="Sancet"/>
+<persons point="5" code="p436234" name="Bryan Gil"/>
+<persons point="0" code="p435090" name="Dani Martín"/>
+<persons point="2" code="p434941" name="Luis Rioja"/>
+<persons point="16" code="p432751" name="Loren"/>
+<persons point="6" code="p431644" name="Ander Guevara"/>
+<persons point="1" code="p42995" name="San José"/>
+<persons point="0" code="p42869" name="Marc Pedraza"/>
+<persons point="9" code="p428399" name="João Félix"/>
+<persons point="9" code="p42839" name="Pedro León"/>
+<persons point="14" code="p42786" name="Hazard"/>
+<persons point="13" code="p42779" name="Gameiro"/>
+<persons point="14" code="p42670" name="Yuri"/>
+<persons point="16" code="p42565" name="Arturo Vidal"/>
+<persons point="10" code="p420909" name="Edu Expósito"/>
+<persons point="0" code="p40559" name="Fabricio"/>
+<persons point="37" code="p40270" name="Aspas"/>
+<persons point="22" code="p39563" name="Marcelo"/>
+<persons point="8" code="p39498" name="Adrián López"/>
+<persons point="3" code="p38519" name="Fran Mérida"/>
+<persons point="27" code="p38411" name="Monreal"/>
+<persons point="-1" code="p38400" name="Sergio Álvarez"/>
+<persons point="5" code="p38394" name="Beñat"/>
+<persons point="6" code="p37064" name="Guardado"/>
+<persons point="21" code="p37055" name="Modrić"/>
+<persons point="5" code="p36903" name="Bale"/>
+<persons point="17" code="p34703" name="Rakitić"/>
+<persons point="31" code="p32298" name="Manuel Reina"/>
+<persons point="2" code="p28525" name="Garay"/>
+<persons point="15" code="p27672" name="Diop"/>
+<persons point="14" code="p246477" name="Lumor"/>
+<persons point="23" code="p246333" name="Vinícius Jr."/>
+<persons point="7" code="p246162" name="Martín"/>
+<persons point="9" code="p244954" name="Pau Torres"/>
+<persons point="19" code="p244716" name="Cucho Hernández"/>
+<persons point="3" code="p244363" name="Marc Cardona"/>
+<persons point="3" code="p243718" name="Melendo"/>
+<persons point="9" code="p242830" name="Unai Núñez"/>
+<persons point="20" code="p242290" name="Toni"/>
+<persons point="1" code="p242260" name="Gaizka Larrazabal"/>
+<persons point="2" code="p241869" name="Calero"/>
+<persons point="9" code="p241157" name="Emerson"/>
+<persons point="0" code="p235227" name="Gorosabel"/>
+<persons point="25" code="p234991" name="En-Nesyri"/>
+<persons point="18" code="p234548" name="Pozo"/>
+<persons point="15" code="p234511" name="Fran Beltrán"/>
+<persons point="11" code="p234370" name="Marc Roca"/>
+<persons point="12" code="p233420" name="Lodi"/>
+<persons point="18" code="p231187" name="J.A. Martínez"/>
+<persons point="7" code="p230598" name="Nacho Vidal"/>
+<persons point="0" code="p229320" name="José Antonio Caro"/>
+<persons point="31" code="p226541" name="Yangel Herrera"/>
+<persons point="6" code="p225463" name="Amath"/>
+<persons point="24" code="p224919" name="Le Normand"/>
+<persons point="19" code="p224860" name="Soler"/>
+<persons point="26" code="p224444" name="Ferrán Torres"/>
+<persons point="0" code="p224389" name="Diego Lainez"/>
+<persons point="20" code="p223757" name="Óscar Rodríguez"/>
+<persons point="24" code="p223255" name="Fede Valverde"/>
+<persons point="14" code="p222874" name="Awaziem"/>
+<persons point="0" code="p222629" name="Thierry Correia"/>
+<persons point="28" code="p220325" name="Koundé"/>
+<persons point="4" code="p220122" name="Joaquín F."/>
+<persons point="6" code="p219855" name="Ontiveros"/>
+<persons point="3" code="p219718" name="Sastre"/>
+<persons point="23" code="p219271" name="Kubo"/>
+<persons point="7" code="p219173" name="Arnáiz"/>
+<persons point="28" code="p219168" name="Isak"/>
+<persons point="22" code="p219000" name="Oyarzabal"/>
+<persons point="9" code="p218774" name="Eteki"/>
+<persons point="0" code="p218449" name="Militão"/>
+<persons point="11" code="p218328" name="Samu Chukwueze"/>
+<persons point="19" code="p216475" name="Zubeldia"/>
+<persons point="2" code="p215792" name="Sedlar"/>
+<persons point="6" code="p215684" name="Córdoba"/>
+<persons point="9" code="p215206" name="Maxi Gómez"/>
+<persons point="20" code="p214966" name="Mathías Olivera"/>
+<persons point="8" code="p213431" name="Hermoso"/>
+<persons point="4" code="p212770" name="Villalibre"/>
+<persons point="18" code="p212769" name="Unai Simón"/>
+<persons point="6" code="p210424" name="Matias Vargas"/>
+<persons point="0" code="p210341" name="Iñaki Peña"/>
+<persons point="13" code="p210171" name="Aidoo"/>
+<persons point="27" code="p209712" name="De Jong"/>
+<persons point="0" code="p208765" name="Juan Pérez"/>
+<persons point="0" code="p208639" name="Ivan Saponjic"/>
+<persons point="13" code="p208135" name="Diakhaby"/>
+<persons point="18" code="p206255" name="Mendy"/>
+<persons point="15" code="p204214" name="Estupiñán"/>
+<persons point="24" code="p204043" name="Arthur"/>
+<persons point="0" code="p20399" name="Barragán"/>
+<persons point="9" code="p203325" name="Anguissa"/>
+<persons point="1" code="p202520" name="Pape Cheikh"/>
+<persons point="7" code="p202044" name="Borja Iglesias"/>
+<persons point="8" code="p201179" name="Sangalli"/>
+<persons point="24" code="p200957" name="Aritz"/>
+<persons point="23" code="p200599" name="Domingos Duarte"/>
+<persons point="19" code="p200402" name="N. Semedo"/>
+<persons point="0" code="p199319" name="Josep Señé"/>
+<persons point="26" code="p19927" name="Benzema"/>
+<persons point="0" code="p199259" name="Javi Sánchez"/>
+<persons point="11" code="p199250" name="Febas"/>
+<persons point="11" code="p199249" name="Reguilón"/>
+<persons point="15" code="p199248" name="Borja Mayoral"/>
+<persons point="3" code="p199244" name="Tejero"/>
+<persons point="29" code="p198499" name="Maksimovic"/>
+<persons point="24" code="p197937" name="Oliver Burke"/>
+<persons point="15" code="p197334" name="Williams"/>
+<persons point="9" code="p197326" name="Vesga"/>
+<persons point="16" code="p197319" name="Yeray"/>
+<persons point="26" code="p197316" name="Remiro"/>
+<persons point="2" code="p197314" name="Lekue"/>
+<persons point="25" code="p196739" name="Bardhi"/>
+<persons point="0" code="p195502" name="Jorge Sáenz"/>
+<persons point="7" code="p195457" name="Melero"/>
+<persons point="24" code="p195384" name="Mikel Merino"/>
+<persons point="15" code="p195364" name="Joan Jordán"/>
+<persons point="27" code="p19524" name="Cazorla"/>
+<persons point="2" code="p19484" name="Xisco Campos"/>
+<persons point="1" code="p194625" name="Kenan Kodro"/>
+<persons point="23" code="p192364" name="Marcos Llorente"/>
+<persons point="70" code="p19054" name="Messi"/>
+<persons point="6" code="p185533" name="Jović"/>
+<persons point="0" code="p18507" name="Diego Costa"/>
+<persons point="18" code="p18498" name="Raúl García"/>
+<persons point="21" code="p184029" name="Ødegaard"/>
+<persons point="1" code="p183462" name="Unai López"/>
+<persons point="0" code="p182617" name="Koke"/>
+<persons point="20" code="p18221" name="Piqué"/>
+<persons point="11" code="p181284" name="Guedes"/>
+<persons point="20" code="p18003" name="Albiol"/>
+<persons point="12" code="p179271" name="Aleñá"/>
+<persons point="14" code="p179268" name="Cucurella"/>
+<persons point="11" code="p17926" name="Soldado"/>
+<persons point="4" code="p178880" name="Brais Méndez"/>
+<persons point="18" code="p178874" name="Soriano"/>
+<persons point="0" code="p178870" name="Kike Barja"/>
+<persons point="44" code="p17861" name="Sergio Ramos"/>
+<persons point="8" code="p178347" name="Mariano"/>
+<persons point="8" code="p178092" name="San Emeterio"/>
+<persons point="16" code="p17740" name="Jesús Navas"/>
+<persons point="5" code="p176278" name="Aarón Escandell"/>
+<persons point="26" code="p176189" name="Carlos Fernández"/>
+<persons point="26" code="p175204" name="David Soria"/>
+<persons point="22" code="p171222" name="Arambarri"/>
+<persons point="20" code="p171101" name="Lenglet"/>
+<persons point="0" code="p170864" name="Munir"/>
+<persons point="23" code="p170116" name="Valjent"/>
+<persons point="6" code="p169873" name="Esteban Burgos"/>
+<persons point="0" code="p169586" name="Cabaco"/>
+<persons point="0" code="p169201" name="Chema"/>
+<persons point="19" code="p169007" name="Darder"/>
+<persons point="0" code="p16872" name="Moyá"/>
+<persons point="24" code="p168636" name="Enes Ünal"/>
+<persons point="4" code="p168390" name="Rober Ibañez"/>
+<persons point="26" code="p168287" name="Calleri"/>
+<persons point="16" code="p167767" name="Kenedy"/>
+<persons point="5" code="p167449" name="Lemar"/>
+<persons point="32" code="p167199" name="Thomas"/>
+<persons point="34" code="p166552" name="Fekir"/>
+<persons point="14" code="p165659" name="Diego Carlos"/>
+<persons point="20" code="p165375" name="Morales"/>
+<persons point="0" code="p164089" name="Quintillà"/>
+<persons point="0" code="p163817" name="Burgui"/>
+<persons point="0" code="p163784" name="Jason"/>
+<persons point="17" code="p163711" name="Unai García"/>
+<persons point="6" code="p16261" name="Cuéllar"/>
+<persons point="3" code="p160607" name="Hernâni"/>
+<persons point="19" code="p16021" name="Diego López"/>
+<persons point="22" code="p158074" name="Gabriel Paulista"/>
+<persons point="1" code="p156305" name="Escalante"/>
+<persons point="16" code="p156301" name="Antonio Puertas"/>
+<persons point="30" code="p156223" name="Correa"/>
+<persons point="33" code="p155851" name="Lucas Pérez"/>
+<persons point="30" code="p154976" name="Januzaj"/>
+<persons point="2" code="p154414" name="Gabriel Fernández"/>
+<persons point="29" code="p152563" name="Olaza"/>
+<persons point="11" code="p151978" name="Cristóforo"/>
+<persons point="0" code="p151883" name="Giménez"/>
+<persons point="13" code="p150360" name="Santi Mina"/>
+<persons point="36" code="p149838" name="Djené"/>
+<persons point="5" code="p14464" name="Aduriz"/>
+<persons point="8" code="p143622" name="Hervías"/>
+<persons point="17" code="p142276" name="Pione Sisto"/>
+<persons point="17" code="p140266" name="Capa"/>
+<persons point="13" code="p140264" name="Dani García"/>
+<persons point="11" code="p138039" name="S. Herrera"/>
+<persons point="18" code="p132105" name="Gayá"/>
+<persons point="5" code="p131411" name="Pere Pons"/>
+<persons point="10" code="p130026" name="Rubén García"/>
+<persons point="7" code="p126510" name="Pablo de Blasis"/>
+<persons point="26" code="p126290" name="Rubén Peña"/>
+<persons point="16" code="p126119" name="Rubén Duarte"/>
+<persons point="8" code="p125945" name="Azeez"/>
+<persons point="26" code="p124097" name="Rui Silva"/>
+<persons point="11" code="p121221" name="Funes Mori"/>
+<persons point="-1" code="p121170" name="Andrés Prieto"/>
+<persons point="40" code="p121117" name="Ocampos"/>
+<persons point="6" code="p120026" name="Bono"/>
+<persons point="28" code="p119403" name="De Tomás"/>
+<persons point="21" code="p116732" name="Jaume Domenech"/>
+<persons point="17" code="p116730" name="Wu Lei"/>
+<persons point="16" code="p116626" name="Kévin Rodrigues"/>
+<persons point="23" code="p116404" name="Felipe"/>
+<persons point="13" code="p116206" name="Vezo"/>
+<persons point="12" code="p116132" name="Jonathan Silva"/>
+<persons point="12" code="p115860" name="Óliver Torres"/>
+<persons point="3" code="p112994" name="Sobrino"/>
+<persons point="21" code="p112991" name="Omeruo"/>
+<persons point="13" code="p112540" name="Bustinza"/>
+<persons point="10" code="p11129" name="David López"/>
+<persons point="0" code="p111274" name="Bacca"/>
+<persons point="36" code="p111133" name="Darwin Machis"/>
+<persons point="18" code="p109702" name="Roger"/>
+<persons point="1" code="p109653" name="Rony Lopes"/>
+<persons point="25" code="p109270" name="Mata"/>
+<persons point="22" code="p109243" name="Moi Gómez"/>
+<persons point="16" code="p108438" name="Sandro"/>
+<persons point="4" code="p108145" name="Clerc"/>
+<persons point="4" code="p107807" name="Kevin Vázquez"/>
+<persons point="15" code="p107593" name="Lucas Vázquez"/>
+<persons point="6" code="p106899" name="Roque Mesa"/>
+<persons point="28" code="p106539" name="Rubén Blanco"/>
+<persons point="19" code="p106468" name="Álex Moreno"/>
+<persons point="21" code="p105571" name="Raíllo"/>
+<persons point="0" code="p105488" name="Juncà"/>
+<persons point="16" code="p103263" name="Inui"/>
+<persons point="21" code="p10316" name="Joaquín"/>
+<persons point="0" code="p102383" name="Arias"/>
+<persons point="36" code="p101394" name="Okay"/>
+<persons point="34" code="p100868" name="Néstor Araújo"/>
+<persons point="9" code="p100731" name="F. Vázquez"/>
+<persons point="-1" code="p100692" name="Naldo"/>
+<persons point="7" code="p100059" name="Alberto Moreno"/>
+<persons point="2" code="P_Ben_Arfa" name="Ben Arfa"/>
